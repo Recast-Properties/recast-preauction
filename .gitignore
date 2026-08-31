@@ -1,0 +1,9 @@
+# scratch + large intermediates
+*.pyc
+__pycache__/
+scratch/
+*.pdf
+*.png
+
+# generated reports (published as Artifacts; regenerate from runs/)
+out/

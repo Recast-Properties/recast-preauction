@@ -1,0 +1,2056 @@
+{
+ "10407 WALNUT RIDGE DR": {
+  "file": "10407 WALNUT RIDGE DR",
+  "estimate": 548762.0,
+  "low": 518106.0,
+  "high": 579418.0,
+  "confidence": 98.0,
+  "fsd": 6.0,
+  "runDate": "08/18/2026",
+  "clip": "1010240560",
+  "comps": [
+   {
+    "addr": "3523 Walnut Ridge Dr",
+    "dist": "0.23 mi",
+    "price": 325000.0,
+    "date": "08/20/2024",
+    "age": 5.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 3039.0,
+    "lot": 11609.0
+   }
+  ],
+  "nearby": [
+   {
+    "addr": "3644 Hidden Hollow Dr",
+    "dist": "0.39 mi",
+    "est": 547300.0,
+    "age": 5.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 3314.0,
+    "lot": 7989.0
+   },
+   {
+    "addr": "3440 Burning Tree Ln",
+    "dist": "0.34 mi",
+    "est": 554600.0,
+    "age": 2.0,
+    "beds": 5.0,
+    "baths": 4.0,
+    "sqft": 3220.0,
+    "lot": 13830.0
+   },
+   {
+    "addr": "3523 Walnut Ridge Dr",
+    "dist": "0.23 mi",
+    "est": 514900.0,
+    "age": 5.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 3039.0,
+    "lot": 11609.0
+   },
+   {
+    "addr": "3411 Cornerstone Ln",
+    "dist": "0.03 mi",
+    "est": 488000.0,
+    "age": 5.0,
+    "beds": 3052.0,
+    "baths": 7902.0,
+    "sqft": 5.0,
+    "lot": 3632.0
+   },
+   {
+    "addr": "3632 Rainwater Trl",
+    "dist": "0.36 mi",
+    "est": 536900.0,
+    "age": 5.0,
+    "beds": 3152.0,
+    "baths": 9374.0,
+    "sqft": 6.0,
+    "lot": 3619.0
+   },
+   {
+    "addr": "3619 Twin Pines Dr",
+    "dist": "0.24 mi",
+    "est": 504900.0,
+    "age": 6.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 4060.0,
+    "lot": 8952.0
+   },
+   {
+    "addr": "3619 Orchard St",
+    "dist": "0.51 mi",
+    "est": 513900.0,
+    "age": 4.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 3274.0,
+    "lot": 6821.0
+   },
+   {
+    "addr": "3630 Orchard St",
+    "dist": "0.51 mi",
+    "est": 527000.0,
+    "age": 4.0,
+    "beds": 4.0,
+    "baths": 4.0,
+    "sqft": 2850.0,
+    "lot": 6821.0
+   },
+   {
+    "addr": "3403 April Breeze Trl",
+    "dist": "0.07 mi",
+    "est": 443300.0,
+    "age": 5.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 2603.0,
+    "lot": 8952.0
+   },
+   {
+    "addr": "3451 Hidden Hollow Dr",
+    "dist": "0.21 mi",
+    "est": 445300.0,
+    "age": 4.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 2304.0,
+    "lot": 9396.0
+   },
+   {
+    "addr": "3411 Cornerstone Ln",
+    "dist": "0.03 mi",
+    "est": 496000.0,
+    "age": 5082026.0,
+    "beds": 5.0,
+    "baths": 4.0,
+    "sqft": 3052.0,
+    "lot": 7884.0
+   },
+   {
+    "addr": "3403 April Breeze Trl",
+    "dist": "0.07 mi",
+    "est": 449000.0,
+    "age": 8042026.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 2603.0,
+    "lot": 8952.0
+   },
+   {
+    "addr": "-",
+    "dist": "0.10 mi",
+    "est": 486340.0,
+    "age": 5132026.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 2794.0,
+    "lot": 8237.0
+   },
+   {
+    "addr": "-",
+    "dist": "0.10 mi",
+    "est": 507300.0,
+    "age": 7182026.0,
+    "beds": 4.0,
+    "baths": 4.0,
+    "sqft": 2818.0,
+    "lot": 12471.0
+   },
+   {
+    "addr": "-",
+    "dist": "0.22 mi",
+    "est": 429840.0,
+    "age": 6182026.0,
+    "beds": 4.0,
+    "baths": 2.0,
+    "sqft": 1896.0,
+    "lot": 6812.0
+   },
+   {
+    "addr": "3608 Rolling Meadows Dr",
+    "dist": "0.23 mi",
+    "est": 410000.0,
+    "age": 7092026.0,
+    "beds": 4.0,
+    "baths": 2.0,
+    "sqft": 1890.0,
+    "lot": 8973.0
+   },
+   {
+    "addr": "3619 Twin Pines Dr",
+    "dist": "0.24 mi",
+    "est": 499999.0,
+    "age": 6102026.0,
+    "beds": 5.0,
+    "baths": 4.0,
+    "sqft": 3359.0,
+    "lot": 8973.0
+   },
+   {
+    "addr": "3615 Rolling Meadows Dr",
+    "dist": "0.25 mi",
+    "est": 405000.0,
+    "age": 5142026.0,
+    "beds": 4.0,
+    "baths": 2.0,
+    "sqft": 2316.0,
+    "lot": 7405.0
+   },
+   {
+    "addr": "-",
+    "dist": "0.32 mi",
+    "est": 513300.0,
+    "age": 7182026.0,
+    "beds": 4.0,
+    "baths": 4.0,
+    "sqft": 2818.0,
+    "lot": 7866.0
+   },
+   {
+    "addr": "-",
+    "dist": "0.32 mi",
+    "est": 459990.0,
+    "age": 7182026.0,
+    "beds": 4.0,
+    "baths": 2.0,
+    "sqft": 2840.0,
+    "lot": 7200.0
+   }
+  ]
+ },
+ "2052 WILLOW BEND DR": {
+  "file": "2052 WILLOW BEND DR",
+  "estimate": 758465.0,
+  "low": 700996.0,
+  "high": 815934.0,
+  "confidence": 90.0,
+  "fsd": 8.0,
+  "runDate": "08/18/2026",
+  "clip": "8476585114",
+  "comps": [
+   {
+    "addr": "1920 Willow Bend Dr",
+    "dist": "0.42 mi",
+    "price": 865250.0,
+    "date": "03/26/2026",
+    "age": 20.0,
+    "beds": 4.0,
+    "baths": 2.0,
+    "sqft": 3028.0,
+    "lot": 44083.0
+   },
+   {
+    "addr": "1925 Willow Bend Dr",
+    "dist": "0.48 mi",
+    "price": 712500.0,
+    "date": "08/29/2025",
+    "age": 21.0,
+    "beds": 4.0,
+    "baths": 4.0,
+    "sqft": 2459.0,
+    "lot": 49833.0
+   },
+   {
+    "addr": "1936 Willow Bend Dr",
+    "dist": "0.38 mi",
+    "price": 555355.57,
+    "date": "11/26/2025",
+    "age": 21.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2673.0,
+    "lot": 44083.0
+   },
+   {
+    "addr": "3 Remington Ct",
+    "dist": "0.72 mi",
+    "price": 506250.0,
+    "date": "11/14/2025",
+    "age": 12.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 3353.0,
+    "lot": 51139.0
+   }
+  ],
+  "nearby": [
+   {
+    "addr": "1920 Willow Bend Dr",
+    "dist": "0.42 mi",
+    "est": 689600.0,
+    "age": 20.0,
+    "beds": 4.0,
+    "baths": 2.0,
+    "sqft": 3028.0,
+    "lot": 44083.0
+   },
+   {
+    "addr": "1925 Willow Bend Dr",
+    "dist": "0.48 mi",
+    "est": 571200.0,
+    "age": 21.0,
+    "beds": 4.0,
+    "baths": 4.0,
+    "sqft": 2459.0,
+    "lot": 49833.0
+   },
+   {
+    "addr": "407 Locust Dr",
+    "dist": "0.54 mi",
+    "est": 629700.0,
+    "age": 25.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 2821.0,
+    "lot": 174240.0
+   },
+   {
+    "addr": "1936 Willow Bend Dr",
+    "dist": "0.38 mi",
+    "est": 570200.0,
+    "age": 21.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2673.0,
+    "lot": 44083.0
+   },
+   {
+    "addr": "1921 Willow Bend Dr",
+    "dist": "0.49 mi",
+    "est": 561700.0,
+    "age": 20.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2932.0,
+    "lot": 49484.0
+   },
+   {
+    "addr": "2001 Willow Bend Dr",
+    "dist": "0.42 mi",
+    "est": 841700.0,
+    "age": 24.0,
+    "beds": 4.0,
+    "baths": 4.0,
+    "sqft": 4174.0,
+    "lot": 122970.0
+   },
+   {
+    "addr": "930 Valley View Ave",
+    "dist": "0.71 mi",
+    "est": 598400.0,
+    "age": 24.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 3057.0,
+    "lot": 38333.0
+   },
+   {
+    "addr": "908 Valley View Ave",
+    "dist": "0.87 mi",
+    "est": 666300.0,
+    "age": 32.0,
+    "beds": 4.0,
+    "baths": 4.0,
+    "sqft": 3976.0,
+    "lot": 38638.0
+   },
+   {
+    "addr": "126 Paddock Rdg",
+    "dist": "0.91 mi",
+    "est": 624400.0,
+    "age": 24.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 2674.0,
+    "lot": 43560.0
+   },
+   {
+    "addr": "3 Remington Ct",
+    "dist": "0.72 mi",
+    "est": 591100.0,
+    "age": 12.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 3353.0,
+    "lot": 51139.0
+   },
+   {
+    "addr": "2056 Willow Bend Dr",
+    "dist": "0.03 mi",
+    "est": 999999.0,
+    "age": 6092026.0,
+    "beds": 5.0,
+    "baths": 7.0,
+    "sqft": 5908.0,
+    "lot": 56628.0
+   },
+   {
+    "addr": "105 Elm Dr",
+    "dist": "0.66 mi",
+    "est": 549900.0,
+    "age": 5262026.0,
+    "beds": 3.0,
+    "baths": 3.0,
+    "sqft": 2838.0,
+    "lot": 71177.0
+   },
+   {
+    "addr": "500 Little Creek Trl",
+    "dist": "0.73 mi",
+    "est": 425000.0,
+    "age": 7252026.0,
+    "beds": 4.0,
+    "baths": 2.0,
+    "sqft": 2141.0,
+    "lot": 48003.0
+   },
+   {
+    "addr": "809 Stephenson Rd",
+    "dist": "0.75 mi",
+    "est": 2300000.0,
+    "age": 6182026.0,
+    "beds": 0.0,
+    "baths": null,
+    "sqft": 1069833.0,
+    "lot": 5.0
+   },
+   {
+    "addr": "105 Country Ridge Ct",
+    "dist": "0.76 mi",
+    "est": 524900.0,
+    "age": 5252026.0,
+    "beds": 4.0,
+    "baths": 4.0,
+    "sqft": 3503.0,
+    "lot": 17641.0
+   },
+   {
+    "addr": "324 Cascade Dr",
+    "dist": "0.77 mi",
+    "est": 323000.0,
+    "age": 7212026.0,
+    "beds": 4.0,
+    "baths": 2.0,
+    "sqft": 1928.0,
+    "lot": 11456.0
+   },
+   {
+    "addr": "912 Summer Hill Ln",
+    "dist": "0.80 mi",
+    "est": 480000.0,
+    "age": 6192026.0,
+    "beds": 3.0,
+    "baths": 3.0,
+    "sqft": 2602.0,
+    "lot": 33018.0
+   },
+   {
+    "addr": "909 Valley View Ave",
+    "dist": "0.82 mi",
+    "est": 489900.0,
+    "age": 4302026.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 3076.0,
+    "lot": 42078.0
+   },
+   {
+    "addr": "908 Alderwood Dr",
+    "dist": "0.89 mi",
+    "est": 473476.0,
+    "age": 8122026.0,
+    "beds": 3.0,
+    "baths": 3.0,
+    "sqft": 2102.0,
+    "lot": 7440.0
+   },
+   {
+    "addr": "103 Red Bud Ct",
+    "dist": "0.91 mi",
+    "est": 355900.0,
+    "age": 6182026.0,
+    "beds": 3.0,
+    "baths": 3.0,
+    "sqft": 2428.0,
+    "lot": 28749.0
+   }
+  ]
+ },
+ "323 TUMBLEWEED TRL": {
+  "file": "323 TUMBLEWEED TRL",
+  "estimate": 398084.0,
+  "low": 374764.0,
+  "high": 421404.0,
+  "confidence": 97.0,
+  "fsd": 6.0,
+  "runDate": "08/18/2026",
+  "clip": "4522102898",
+  "comps": [
+   {
+    "addr": "1113 Planters Way",
+    "dist": "0.25 mi",
+    "price": 330260.0,
+    "date": "06/15/2026",
+    "age": 8.0,
+    "beds": 2812.0,
+    "baths": 8276.0,
+    "sqft": 2.0,
+    "lot": 524.0
+   },
+   {
+    "addr": "524 Windrow Ln",
+    "dist": "0.33 mi",
+    "price": 495253.75,
+    "date": "05/26/2026",
+    "age": 7.0,
+    "beds": 4.0,
+    "baths": 2.0,
+    "sqft": 2357.0,
+    "lot": 7492.0
+   },
+   {
+    "addr": "525 Sagebrush Ln",
+    "dist": "0.11 mi",
+    "price": 381806.26,
+    "date": "10/08/2025",
+    "age": 11.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2316.0,
+    "lot": 7841.0
+   },
+   {
+    "addr": "539 Windrow Ln",
+    "dist": "0.38 mi",
+    "price": 371322.0,
+    "date": "05/01/2026",
+    "age": 8.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2112.0,
+    "lot": 7449.0
+   },
+   {
+    "addr": "309 Western Sky Ln",
+    "dist": "0.08 mi",
+    "price": 406598.73,
+    "date": "01/05/2026",
+    "age": 9.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 3046.0,
+    "lot": 8712.0
+   }
+  ],
+  "nearby": [
+   {
+    "addr": "1113 Planters Way",
+    "dist": "0.25 mi",
+    "est": 426200.0,
+    "age": 8.0,
+    "beds": 2812.0,
+    "baths": 8276.0,
+    "sqft": 2.0,
+    "lot": 524.0
+   },
+   {
+    "addr": "524 Windrow Ln",
+    "dist": "0.33 mi",
+    "est": 401700.0,
+    "age": 7.0,
+    "beds": 4.0,
+    "baths": 2.0,
+    "sqft": 2357.0,
+    "lot": 7492.0
+   },
+   {
+    "addr": "541 Harvest Grove Dr",
+    "dist": "0.34 mi",
+    "est": 411500.0,
+    "age": 6.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2295.0,
+    "lot": 7405.0
+   },
+   {
+    "addr": "525 Sagebrush Ln",
+    "dist": "0.11 mi",
+    "est": 399600.0,
+    "age": 11.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2316.0,
+    "lot": 7841.0
+   },
+   {
+    "addr": "204 Garden Grove Dr",
+    "dist": "0.22 mi",
+    "est": 405500.0,
+    "age": 6.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 2683.0,
+    "lot": 5227.0
+   },
+   {
+    "addr": "207 Arborside Dr",
+    "dist": "0.21 mi",
+    "est": 396900.0,
+    "age": 7.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 2336.0,
+    "lot": 5227.0
+   },
+   {
+    "addr": "541 Windrow Ln",
+    "dist": "0.39 mi",
+    "est": 403400.0,
+    "age": 7.0,
+    "beds": 4.0,
+    "baths": 2.0,
+    "sqft": 2368.0,
+    "lot": 7449.0
+   },
+   {
+    "addr": "539 Windrow Ln",
+    "dist": "0.38 mi",
+    "est": 384400.0,
+    "age": 8.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2112.0,
+    "lot": 7449.0
+   },
+   {
+    "addr": "309 Western Sky Ln",
+    "dist": "0.08 mi",
+    "est": 414600.0,
+    "age": 9.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 3046.0,
+    "lot": 8712.0
+   },
+   {
+    "addr": "553 Harvest Grove Dr",
+    "dist": "0.38 mi",
+    "est": 402000.0,
+    "age": 7.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2707.0,
+    "lot": 7797.0
+   },
+   {
+    "addr": "212 Ghost Rider Rd",
+    "dist": "0.08 mi",
+    "est": 355000.0,
+    "age": 6052026.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 1923.0,
+    "lot": 7492.0
+   },
+   {
+    "addr": "164 Horseshoe Bnd",
+    "dist": "0.11 mi",
+    "est": 464900.0,
+    "age": 6292026.0,
+    "beds": 5.0,
+    "baths": 3.0,
+    "sqft": 2777.0,
+    "lot": 12719.0
+   },
+   {
+    "addr": "222 Range Rd",
+    "dist": "0.14 mi",
+    "est": 275000.0,
+    "age": 6082026.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 1596.0,
+    "lot": 5967.0
+   },
+   {
+    "addr": "116 Arborside Dr",
+    "dist": "0.15 mi",
+    "est": 355000.0,
+    "age": 3302026.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 1804.0,
+    "lot": 5227.0
+   },
+   {
+    "addr": "120 Tetrad Cir",
+    "dist": "0.15 mi",
+    "est": 520377.0,
+    "age": 8052026.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 3280.0,
+    "lot": 11631.0
+   },
+   {
+    "addr": "149 Valley Ranch Dr",
+    "dist": "0.15 mi",
+    "est": 320000.0,
+    "age": 6152026.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 1558.0,
+    "lot": 6708.0
+   },
+   {
+    "addr": "207 Rawhide St",
+    "dist": "0.16 mi",
+    "est": 314900.0,
+    "age": 7092026.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2103.0,
+    "lot": 5706.0
+   },
+   {
+    "addr": "201 Rawhide St",
+    "dist": "0.17 mi",
+    "est": 329500.0,
+    "age": 4092026.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2080.0,
+    "lot": 6708.0
+   },
+   {
+    "addr": "123 Arborside Dr",
+    "dist": "0.17 mi",
+    "est": 349900.0,
+    "age": 4302026.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 1865.0,
+    "lot": 5227.0
+   },
+   {
+    "addr": "115 Tetrad Cir",
+    "dist": "0.17 mi",
+    "est": 531018.0,
+    "age": 12192025.0,
+    "beds": 4.0,
+    "baths": 4.0,
+    "sqft": 3435.0,
+    "lot": 11592.0
+   }
+  ]
+ },
+ "408 ABBOTT LN": {
+  "file": "408 ABBOTT LN",
+  "estimate": 437189.0,
+  "low": 410646.0,
+  "high": 463732.0,
+  "confidence": 96.0,
+  "fsd": 6.0,
+  "runDate": "08/18/2026",
+  "clip": "1128766479",
+  "comps": [
+   {
+    "addr": "342 Wolf Creek Dr",
+    "dist": "0.24 mi",
+    "price": 510625.0,
+    "date": "06/30/2026",
+    "age": 6.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2444.0,
+    "lot": 7492.0
+   },
+   {
+    "addr": "304 Bessie Coleman Blvd",
+    "dist": "0.20 mi",
+    "price": 445900.0,
+    "date": "04/24/2026",
+    "age": 7.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2794.0,
+    "lot": 7841.0
+   },
+   {
+    "addr": "395 Haven Rd",
+    "dist": "0.09 mi",
+    "price": 58500.0,
+    "date": "05/22/2026",
+    "age": 4.0,
+    "beds": 3.0,
+    "baths": 3.0,
+    "sqft": 2438.0,
+    "lot": 10106.0
+   },
+   {
+    "addr": "308 Bessie Coleman Blvd",
+    "dist": "0.18 mi",
+    "price": 419804.48,
+    "date": "05/15/2026",
+    "age": 10.0,
+    "beds": 4.0,
+    "baths": 2.0,
+    "sqft": 2981.0,
+    "lot": 7797.0
+   }
+  ],
+  "nearby": [
+   {
+    "addr": "329 Strait Ln",
+    "dist": "0.18 mi",
+    "est": 438500.0,
+    "age": 9.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2650.0,
+    "lot": 7187.0
+   },
+   {
+    "addr": "342 Wolf Creek Dr",
+    "dist": "0.24 mi",
+    "est": 428100.0,
+    "age": 6.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2444.0,
+    "lot": 7492.0
+   },
+   {
+    "addr": "354 Wolf Creek Dr",
+    "dist": "0.23 mi",
+    "est": 437800.0,
+    "age": 6.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2554.0,
+    "lot": 7492.0
+   },
+   {
+    "addr": "1568 Retreat Rd",
+    "dist": "0.25 mi",
+    "est": 432800.0,
+    "age": 8.0,
+    "beds": 2624.0,
+    "baths": 7492.0,
+    "sqft": null,
+    "lot": null
+   },
+   {
+    "addr": "412 Abbott Ln",
+    "dist": "0.01 mi",
+    "est": 408900.0,
+    "age": 5.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 1988.0,
+    "lot": 8930.0
+   },
+   {
+    "addr": "304 Bessie Coleman Blvd",
+    "dist": "0.20 mi",
+    "est": 454000.0,
+    "age": 7.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2794.0,
+    "lot": 7841.0
+   },
+   {
+    "addr": "625 Dean Box Dr",
+    "dist": "0.11 mi",
+    "est": 438100.0,
+    "age": 5.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2198.0,
+    "lot": 11369.0
+   },
+   {
+    "addr": "395 Haven Rd",
+    "dist": "0.09 mi",
+    "est": 438700.0,
+    "age": 4.0,
+    "beds": 3.0,
+    "baths": 3.0,
+    "sqft": 2438.0,
+    "lot": 10106.0
+   },
+   {
+    "addr": "428 Haven Rd",
+    "dist": "0.13 mi",
+    "est": 445400.0,
+    "age": 5.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2182.0,
+    "lot": 9627.0
+   },
+   {
+    "addr": "308 Bessie Coleman Blvd",
+    "dist": "0.18 mi",
+    "est": 435800.0,
+    "age": 10.0,
+    "beds": 4.0,
+    "baths": 2.0,
+    "sqft": 2981.0,
+    "lot": 7797.0
+   },
+   {
+    "addr": "602 Dean Box Dr",
+    "dist": "0.05 mi",
+    "est": 499900.0,
+    "age": 3102026.0,
+    "beds": 4.0,
+    "baths": 4.0,
+    "sqft": 3084.0,
+    "lot": 11064.0
+   },
+   {
+    "addr": "348 Bessie Coleman Blvd",
+    "dist": "0.09 mi",
+    "est": 399900.0,
+    "age": 7252026.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2184.0,
+    "lot": 7797.0
+   },
+   {
+    "addr": "1590 Reserve Rd",
+    "dist": "0.09 mi",
+    "est": 474000.0,
+    "age": 6062026.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 2815.0,
+    "lot": 10236.0
+   },
+   {
+    "addr": "343 Abbott Ln",
+    "dist": "0.10 mi",
+    "est": 385000.0,
+    "age": 4302026.0,
+    "beds": 4.0,
+    "baths": 2.0,
+    "sqft": 2273.0,
+    "lot": 7361.0
+   },
+   {
+    "addr": "436 Brushwood Ln",
+    "dist": "0.13 mi",
+    "est": 525000.0,
+    "age": 6262026.0,
+    "beds": 4.0,
+    "baths": 4.0,
+    "sqft": 2747.0,
+    "lot": 10280.0
+   },
+   {
+    "addr": "395 Strait Ln",
+    "dist": "0.14 mi",
+    "est": 427000.0,
+    "age": 6102026.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 2630.0,
+    "lot": 9714.0
+   },
+   {
+    "addr": "440 Brushwood Ln",
+    "dist": "0.14 mi",
+    "est": 590000.0,
+    "age": 7272026.0,
+    "beds": 4.0,
+    "baths": 4.0,
+    "sqft": 3706.0,
+    "lot": 10628.0
+   },
+   {
+    "addr": "448 Bessie Coleman Blvd",
+    "dist": "0.16 mi",
+    "est": 485900.0,
+    "age": 6292026.0,
+    "beds": 3.0,
+    "baths": 3.0,
+    "sqft": 2641.0,
+    "lot": 8319.0
+   },
+   {
+    "addr": "329 Strait Ln",
+    "dist": "0.18 mi",
+    "est": 450000.0,
+    "age": 8032026.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 2650.0,
+    "lot": 7187.0
+   }
+  ]
+ },
+ "469 BRUSHWOOD LN": {
+  "file": "469 BRUSHWOOD LN",
+  "estimate": 398914.0,
+  "low": 374695.0,
+  "high": 423133.0,
+  "confidence": 96.0,
+  "fsd": 6.0,
+  "runDate": "08/18/2026",
+  "clip": "1077104911",
+  "comps": [
+   {
+    "addr": "346 Windsor St",
+    "dist": "0.28 mi",
+    "price": 331250.0,
+    "date": "07/07/2026",
+    "age": 6.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2330.0,
+    "lot": 8625.0
+   },
+   {
+    "addr": "330 Windsor St",
+    "dist": "0.32 mi",
+    "price": 406598.73,
+    "date": "06/18/2026",
+    "age": 6.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2317.0,
+    "lot": 9975.0
+   },
+   {
+    "addr": "343 Abbott Ln",
+    "dist": "0.30 mi",
+    "price": 415625.0,
+    "date": "08/14/2025",
+    "age": 8.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2246.0,
+    "lot": 7362.0
+   },
+   {
+    "addr": "335 Country Meadows Blvd",
+    "dist": "0.31 mi",
+    "price": 457187.5,
+    "date": "02/13/2026",
+    "age": 7.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2095.0,
+    "lot": 7492.0
+   },
+   {
+    "addr": "350 Windsor St",
+    "dist": "0.27 mi",
+    "price": 396900.0,
+    "date": "09/26/2025",
+    "age": 7.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 2371.0,
+    "lot": 8625.0
+   },
+   {
+    "addr": "297 Sparkling Springs Dr",
+    "dist": "0.31 mi",
+    "price": 408375.0,
+    "date": "07/01/2026",
+    "age": 3.0,
+    "beds": 4.0,
+    "baths": 2.0,
+    "sqft": 2038.0,
+    "lot": 7379.0
+   },
+   {
+    "addr": "1673 Vista Way",
+    "dist": "0.08 mi",
+    "price": 369504.1,
+    "date": "03/13/2026",
+    "age": 5.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 1788.0,
+    "lot": 6534.0
+   }
+  ],
+  "nearby": [
+   {
+    "addr": "348 Bessie Coleman Blvd",
+    "dist": "0.32 mi",
+    "est": 392200.0,
+    "age": 9.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2184.0,
+    "lot": 7797.0
+   },
+   {
+    "addr": "346 Windsor St",
+    "dist": "0.28 mi",
+    "est": 408400.0,
+    "age": 6.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2330.0,
+    "lot": 8625.0
+   },
+   {
+    "addr": "330 Windsor St",
+    "dist": "0.32 mi",
+    "est": 410500.0,
+    "age": 6.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2317.0,
+    "lot": 9975.0
+   },
+   {
+    "addr": "343 Abbott Ln",
+    "dist": "0.30 mi",
+    "est": 384800.0,
+    "age": 8.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2246.0,
+    "lot": 7362.0
+   },
+   {
+    "addr": "335 Country Meadows Blvd",
+    "dist": "0.31 mi",
+    "est": 387600.0,
+    "age": 7.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2095.0,
+    "lot": 7492.0
+   },
+   {
+    "addr": "350 Windsor St",
+    "dist": "0.27 mi",
+    "est": 412200.0,
+    "age": 7.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 2371.0,
+    "lot": 8625.0
+   },
+   {
+    "addr": "289 Sparkling Springs Dr",
+    "dist": "0.32 mi",
+    "est": 395600.0,
+    "age": 4.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2309.0,
+    "lot": 7379.0
+   },
+   {
+    "addr": "297 Sparkling Springs Dr",
+    "dist": "0.31 mi",
+    "est": 375200.0,
+    "age": 3.0,
+    "beds": 4.0,
+    "baths": 2.0,
+    "sqft": 2038.0,
+    "lot": 7379.0
+   },
+   {
+    "addr": "1673 Vista Way",
+    "dist": "0.08 mi",
+    "est": 368800.0,
+    "age": 5.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 1788.0,
+    "lot": 6534.0
+   },
+   {
+    "addr": "625 Dean Box Dr",
+    "dist": "0.18 mi",
+    "est": 438100.0,
+    "age": 5.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2198.0,
+    "lot": 11369.0
+   },
+   {
+    "addr": "460 Country Meadows Blvd",
+    "dist": "0.03 mi",
+    "est": 552000.0,
+    "age": 6062026.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 3291.0,
+    "lot": 8407.0
+   },
+   {
+    "addr": "476 Wolf Creek Dr",
+    "dist": "0.08 mi",
+    "est": 530000.0,
+    "age": 2092026.0,
+    "beds": 4.0,
+    "baths": 4.0,
+    "sqft": 3405.0,
+    "lot": 8537.0
+   },
+   {
+    "addr": "449 Country Meadows Blvd",
+    "dist": "0.09 mi",
+    "est": 475000.0,
+    "age": 4242026.0,
+    "beds": 4.0,
+    "baths": 4.0,
+    "sqft": 2890.0,
+    "lot": 8407.0
+   },
+   {
+    "addr": "440 Brushwood Ln",
+    "dist": "0.10 mi",
+    "est": 590000.0,
+    "age": 7272026.0,
+    "beds": 4.0,
+    "baths": 4.0,
+    "sqft": 3706.0,
+    "lot": 10628.0
+   },
+   {
+    "addr": "1717 Vista Way",
+    "dist": "0.11 mi",
+    "est": 440000.0,
+    "age": 7232026.0,
+    "beds": 3.0,
+    "baths": 3.0,
+    "sqft": 2189.0,
+    "lot": 6011.0
+   },
+   {
+    "addr": "436 Brushwood Ln",
+    "dist": "0.11 mi",
+    "est": 525000.0,
+    "age": 6262026.0,
+    "beds": 4.0,
+    "baths": 4.0,
+    "sqft": 2747.0,
+    "lot": 10280.0
+   },
+   {
+    "addr": "448 Bessie Coleman Blvd",
+    "dist": "0.16 mi",
+    "est": 485900.0,
+    "age": 6292026.0,
+    "beds": 3.0,
+    "baths": 3.0,
+    "sqft": 2641.0,
+    "lot": 8319.0
+   },
+   {
+    "addr": "602 Dean Box Dr",
+    "dist": "0.19 mi",
+    "est": 499900.0,
+    "age": 3102026.0,
+    "beds": 4.0,
+    "baths": 4.0,
+    "sqft": 3084.0,
+    "lot": 11064.0
+   },
+   {
+    "addr": "499 Washington Ave",
+    "dist": "0.20 mi",
+    "est": 420000.0,
+    "age": 4302026.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 2411.0,
+    "lot": 6011.0
+   },
+   {
+    "addr": "1692 Stonegate St",
+    "dist": "0.27 mi",
+    "est": 469000.0,
+    "age": 6262026.0,
+    "beds": 4.0,
+    "baths": 4.0,
+    "sqft": 2868.0,
+    "lot": 10193.0
+   }
+  ]
+ },
+ "495 WASHINGTON AVE": {
+  "file": "495 WASHINGTON AVE",
+  "estimate": 410399.0,
+  "low": 386631.0,
+  "high": 434167.0,
+  "confidence": 97.0,
+  "fsd": 6.0,
+  "runDate": "08/18/2026",
+  "clip": "6762470993",
+  "comps": [
+   {
+    "addr": "1616 Granite Way",
+    "dist": "0.22 mi",
+    "price": 376125.0,
+    "date": "07/24/2026",
+    "age": 7.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2866.0,
+    "lot": 17642.0
+   },
+   {
+    "addr": "483 S Hill Dr",
+    "dist": "0.30 mi",
+    "price": 485687.5,
+    "date": "11/21/2025",
+    "age": 6.0,
+    "beds": 3.0,
+    "baths": 3.0,
+    "sqft": 2383.0,
+    "lot": 12240.0
+   },
+   {
+    "addr": "533 Sanctuary Dr",
+    "dist": "0.38 mi",
+    "price": 396682.55,
+    "date": "08/15/2025",
+    "age": 2.0,
+    "beds": 4.0,
+    "baths": 2.0,
+    "sqft": 2201.0,
+    "lot": 7200.0
+   }
+  ],
+  "nearby": [
+   {
+    "addr": "499 Washington Ave",
+    "dist": "0.02 mi",
+    "est": 413800.0,
+    "age": 5.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 2304.0,
+    "lot": 6011.0
+   },
+   {
+    "addr": "1567 Harrison Cir",
+    "dist": "0.29 mi",
+    "est": 437000.0,
+    "age": 8.0,
+    "beds": 4.0,
+    "baths": 2.0,
+    "sqft": 2264.0,
+    "lot": 9583.0
+   },
+   {
+    "addr": "1717 Vista Way",
+    "dist": "0.18 mi",
+    "est": 428300.0,
+    "age": 5.0,
+    "beds": 3.0,
+    "baths": 3.0,
+    "sqft": 2189.0,
+    "lot": 6011.0
+   },
+   {
+    "addr": "625 Dean Box Dr",
+    "dist": "0.35 mi",
+    "est": 438100.0,
+    "age": 5.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2198.0,
+    "lot": 11369.0
+   },
+   {
+    "addr": "477 S Hill Dr",
+    "dist": "0.31 mi",
+    "est": 396000.0,
+    "age": 6.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2551.0,
+    "lot": 11326.0
+   },
+   {
+    "addr": "1616 Granite Way",
+    "dist": "0.22 mi",
+    "est": 434100.0,
+    "age": 7.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2866.0,
+    "lot": 17642.0
+   },
+   {
+    "addr": "472 S Hill Dr",
+    "dist": "0.35 mi",
+    "est": 398500.0,
+    "age": 6.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2552.0,
+    "lot": 15072.0
+   },
+   {
+    "addr": "348 Bessie Coleman Blvd",
+    "dist": "0.44 mi",
+    "est": 392200.0,
+    "age": 9.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2184.0,
+    "lot": 7797.0
+   },
+   {
+    "addr": "483 S Hill Dr",
+    "dist": "0.30 mi",
+    "est": 425300.0,
+    "age": 6.0,
+    "beds": 3.0,
+    "baths": 3.0,
+    "sqft": 2383.0,
+    "lot": 12240.0
+   },
+   {
+    "addr": "533 Sanctuary Dr",
+    "dist": "0.38 mi",
+    "est": 407600.0,
+    "age": 2.0,
+    "beds": 4.0,
+    "baths": 2.0,
+    "sqft": 2201.0,
+    "lot": 7200.0
+   },
+   {
+    "addr": "499 Washington Ave",
+    "dist": "0.02 mi",
+    "est": 420000.0,
+    "age": 4302026.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 2411.0,
+    "lot": 6011.0
+   },
+   {
+    "addr": "1692 Stonegate St",
+    "dist": "0.13 mi",
+    "est": 469000.0,
+    "age": 6262026.0,
+    "beds": 4.0,
+    "baths": 4.0,
+    "sqft": 2868.0,
+    "lot": 10193.0
+   },
+   {
+    "addr": "Rental",
+    "dist": "0.17 mi",
+    "est": 2799.0,
+    "age": 7062026.0,
+    "beds": 4.0,
+    "baths": 2.0,
+    "sqft": 2094.0,
+    "lot": 6011.0
+   },
+   {
+    "addr": "1717 Vista Way",
+    "dist": "0.18 mi",
+    "est": 440000.0,
+    "age": 7232026.0,
+    "beds": 3.0,
+    "baths": 3.0,
+    "sqft": 2189.0,
+    "lot": 6011.0
+   },
+   {
+    "addr": "476 Wolf Creek Dr",
+    "dist": "0.21 mi",
+    "est": 530000.0,
+    "age": 2092026.0,
+    "beds": 4.0,
+    "baths": 4.0,
+    "sqft": 3405.0,
+    "lot": 8537.0
+   },
+   {
+    "addr": "460 Country Meadows Blvd",
+    "dist": "0.21 mi",
+    "est": 552000.0,
+    "age": 6062026.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 3291.0,
+    "lot": 8407.0
+   },
+   {
+    "addr": "512 Strait Ln",
+    "dist": "0.21 mi",
+    "est": 425000.0,
+    "age": 8102026.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 2766.0,
+    "lot": 8407.0
+   },
+   {
+    "addr": "448 Bessie Coleman Blvd",
+    "dist": "0.22 mi",
+    "est": 485900.0,
+    "age": 6292026.0,
+    "beds": 3.0,
+    "baths": 3.0,
+    "sqft": 2641.0,
+    "lot": 8319.0
+   },
+   {
+    "addr": "449 Country Meadows Blvd",
+    "dist": "0.26 mi",
+    "est": 475000.0,
+    "age": 4242026.0,
+    "beds": 4.0,
+    "baths": 4.0,
+    "sqft": 2890.0,
+    "lot": 8407.0
+   },
+   {
+    "addr": "440 Brushwood Ln",
+    "dist": "0.26 mi",
+    "est": 590000.0,
+    "age": 7272026.0,
+    "beds": 4.0,
+    "baths": 4.0,
+    "sqft": 3706.0,
+    "lot": 10628.0
+   }
+  ]
+ },
+ "501 WHITE PLAINS CT": {
+  "file": "501 WHITE PLAINS CT",
+  "estimate": 555231.0,
+  "low": 522231.0,
+  "high": 588231.0,
+  "confidence": 97.0,
+  "fsd": 6.0,
+  "runDate": "08/18/2026",
+  "clip": "6702814074",
+  "comps": [
+   {
+    "addr": "262 Brook Meadow Dr",
+    "dist": "0.23 mi",
+    "price": 475000.0,
+    "date": "05/05/2026",
+    "age": 9.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 3622.0,
+    "lot": 8276.0
+   },
+   {
+    "addr": "2821 White Plains Dr",
+    "dist": "0.15 mi",
+    "price": 763770.0,
+    "date": "01/14/2026",
+    "age": 4.0,
+    "beds": 5.0,
+    "baths": 4.0,
+    "sqft": 3612.0,
+    "lot": 28183.0
+   }
+  ],
+  "nearby": [
+   {
+    "addr": "405 Double Creek Dr",
+    "dist": "0.28 mi",
+    "est": 558600.0,
+    "age": 9.0,
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 3293.0,
+    "lot": 16553.0
+   },
+   {
+    "addr": "441 Rockaway Dr",
+    "dist": "0.12 mi",
+    "est": 533800.0,
+    "age": 8.0,
+    "beds": 2662.0,
+    "baths": 9583.0,
+    "sqft": 3.0,
+    "lot": 2625.0
+   },
+   {
+    "addr": "2625 White Plains Dr",
+    "dist": "0.04 mi",
+    "est": 613500.0,
+    "age": 5.0,
+    "beds": 5.0,
+    "baths": 4.0,
+    "sqft": 3781.0,
+    "lot": 15464.0
+   },
+   {
+    "addr": "2605 Flatbush Ave",
+    "dist": "0.19 mi",
+    "est": 539800.0,
+    "age": 7.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 3036.0,
+    "lot": 10454.0
+   },
+   {
+    "addr": "2618 Fair Oaks Ave",
+    "dist": "0.24 mi",
+    "est": 582800.0,
+    "age": 6.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 3046.0,
+    "lot": 7841.0
+   },
+   {
+    "addr": "262 Brook Meadow Dr",
+    "dist": "0.23 mi",
+    "est": 516500.0,
+    "age": 9.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 3622.0,
+    "lot": 8276.0
+   },
+   {
+    "addr": "441 Lake Park Dr",
+    "dist": "0.38 mi",
+    "est": 506200.0,
+    "age": 9.0,
+    "beds": 4.0,
+    "baths": 2.0,
+    "sqft": 3350.0,
+    "lot": 12197.0
+   },
+   {
+    "addr": "409 Brookdale Dr",
+    "dist": "0.17 mi",
+    "est": 498800.0,
+    "age": 9.0,
+    "beds": 3346.0,
+    "baths": 8712.0,
+    "sqft": 9.0,
+    "lot": 2822.0
+   },
+   {
+    "addr": "2822 Palmerston Dr",
+    "dist": "0.14 mi",
+    "est": 519800.0,
+    "age": 9.0,
+    "beds": 5.0,
+    "baths": 4.0,
+    "sqft": 3416.0,
+    "lot": 8712.0
+   },
+   {
+    "addr": "2821 White Plains Dr",
+    "dist": "0.15 mi",
+    "est": 612100.0,
+    "age": 4.0,
+    "beds": 5.0,
+    "baths": 4.0,
+    "sqft": 3612.0,
+    "lot": 28183.0
+   },
+   {
+    "addr": "466 Rockaway Dr",
+    "dist": "0.06 mi",
+    "est": 399998.0,
+    "age": 6022026.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 2228.0,
+    "lot": 8276.0
+   },
+   {
+    "addr": "2610 White Plains Dr",
+    "dist": "0.06 mi",
+    "est": 680950.0,
+    "age": 12152025.0,
+    "beds": 5.0,
+    "baths": 4.0,
+    "sqft": 4314.0,
+    "lot": 9021.0
+   },
+   {
+    "addr": "422 Crestview Dr",
+    "dist": "0.07 mi",
+    "est": 624000.0,
+    "age": 6252026.0,
+    "beds": 5.0,
+    "baths": 4.0,
+    "sqft": 4182.0,
+    "lot": 7797.0
+   },
+   {
+    "addr": "418 Crestview Dr",
+    "dist": "0.08 mi",
+    "est": 624000.0,
+    "age": 3112026.0,
+    "beds": 5.0,
+    "baths": 5.0,
+    "sqft": 4076.0,
+    "lot": 7797.0
+   },
+   {
+    "addr": "518 Valley Dr",
+    "dist": "0.10 mi",
+    "est": 654900.0,
+    "age": 10132025.0,
+    "beds": 6.0,
+    "baths": 4.0,
+    "sqft": 4143.0,
+    "lot": 7187.0
+   },
+   {
+    "addr": "413 Frontier Ct",
+    "dist": "0.11 mi",
+    "est": 650000.0,
+    "age": 6112026.0,
+    "beds": 5.0,
+    "baths": 5.0,
+    "sqft": 4687.0,
+    "lot": 10672.0
+   },
+   {
+    "addr": "441 Rockaway Dr",
+    "dist": "0.12 mi",
+    "est": 499000.0,
+    "age": 5012026.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 2662.0,
+    "lot": 9583.0
+   },
+   {
+    "addr": "2630 Flatbush Ave",
+    "dist": "0.12 mi",
+    "est": 590000.0,
+    "age": 12262025.0,
+    "beds": 5.0,
+    "baths": 5.0,
+    "sqft": 4570.0,
+    "lot": 9583.0
+   },
+   {
+    "addr": "Crestview Dr",
+    "dist": "0.12 mi",
+    "est": 592819.0,
+    "age": 9252025.0,
+    "beds": 5.0,
+    "baths": 4.0,
+    "sqft": 2860.0,
+    "lot": 9931.0
+   },
+   {
+    "addr": "409 Brookdale Dr",
+    "dist": "0.17 mi",
+    "est": 505000.0,
+    "age": 3252026.0,
+    "beds": 5.0,
+    "baths": 4.0,
+    "sqft": 3432.0,
+    "lot": 8712.0
+   }
+  ]
+ },
+ "5614 LOG CABIN CT": {
+  "file": "5614 LOG CABIN CT",
+  "estimate": 435309.0,
+  "low": 409436.0,
+  "high": 461182.0,
+  "confidence": 97.0,
+  "fsd": 6.0,
+  "runDate": "08/18/2026",
+  "clip": "1211843838",
+  "comps": [
+   {
+    "addr": "5622 Log Cabin Ct",
+    "dist": "0.03 mi",
+    "price": 467098.75,
+    "date": "01/07/2026",
+    "age": 4.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 1935.0,
+    "lot": 10437.0
+   },
+   {
+    "addr": "5614 Goodnight Ct",
+    "dist": "0.07 mi",
+    "price": 318750.0,
+    "date": "07/24/2026",
+    "age": 5.0,
+    "beds": 4.0,
+    "baths": 2.0,
+    "sqft": 1893.0,
+    "lot": 11626.0
+   },
+   {
+    "addr": "605 Roscoe Dr",
+    "dist": "0.23 mi",
+    "price": 506250.0,
+    "date": "06/29/2026",
+    "age": 6.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2642.0,
+    "lot": 10759.0
+   },
+   {
+    "addr": "805 Rustic Trl",
+    "dist": "0.23 mi",
+    "price": 496125.0,
+    "date": "06/30/2026",
+    "age": 8.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2646.0,
+    "lot": 11805.0
+   },
+   {
+    "addr": "618 Lonesome Dove Dr",
+    "dist": "0.29 mi",
+    "price": 558447.5,
+    "date": "03/13/2026",
+    "age": 9.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2331.0,
+    "lot": 9583.0
+   },
+   {
+    "addr": "5617 Montana Dr",
+    "dist": "0.24 mi",
+    "price": 489375.0,
+    "date": "01/30/2026",
+    "age": 8.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2281.0,
+    "lot": 10716.0
+   }
+  ],
+  "nearby": [
+   {
+    "addr": "5600 Log Cabin Ct",
+    "dist": "0.06 mi",
+    "est": 418200.0,
+    "age": 5.0,
+    "beds": 4.0,
+    "baths": 2.0,
+    "sqft": 1882.0,
+    "lot": 13216.0
+   },
+   {
+    "addr": "5622 Log Cabin Ct",
+    "dist": "0.03 mi",
+    "est": 421200.0,
+    "age": 4.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 1935.0,
+    "lot": 10437.0
+   },
+   {
+    "addr": "5614 Goodnight Ct",
+    "dist": "0.07 mi",
+    "est": 424100.0,
+    "age": 5.0,
+    "beds": 4.0,
+    "baths": 2.0,
+    "sqft": 1893.0,
+    "lot": 11626.0
+   },
+   {
+    "addr": "6025 Kansas Trl",
+    "dist": "0.24 mi",
+    "est": 422400.0,
+    "age": 3.0,
+    "beds": 4.0,
+    "baths": 2.0,
+    "sqft": 2275.0,
+    "lot": 10001.0
+   },
+   {
+    "addr": "5610 Goodnight Ct",
+    "dist": "0.07 mi",
+    "est": 443500.0,
+    "age": 5.0,
+    "beds": 3.0,
+    "baths": 2419.0,
+    "sqft": 11495.0,
+    "lot": 6.0
+   },
+   {
+    "addr": "829 Poppie Ln",
+    "dist": "0.26 mi",
+    "est": 421700.0,
+    "age": 3.0,
+    "beds": 4.0,
+    "baths": 2.0,
+    "sqft": 2272.0,
+    "lot": 10428.0
+   },
+   {
+    "addr": "605 Roscoe Dr",
+    "dist": "0.23 mi",
+    "est": 460700.0,
+    "age": 6.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2642.0,
+    "lot": 10759.0
+   },
+   {
+    "addr": "805 Rustic Trl",
+    "dist": "0.23 mi",
+    "est": 444900.0,
+    "age": 8.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2646.0,
+    "lot": 11805.0
+   },
+   {
+    "addr": "618 Lonesome Dove Dr",
+    "dist": "0.29 mi",
+    "est": 454900.0,
+    "age": 9.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2331.0,
+    "lot": 9583.0
+   },
+   {
+    "addr": "5617 Montana Dr",
+    "dist": "0.24 mi",
+    "est": 438700.0,
+    "age": 8.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2281.0,
+    "lot": 10716.0
+   },
+   {
+    "addr": "626 Deleon Dr",
+    "dist": "0.12 mi",
+    "est": 501990.0,
+    "age": 3212022.0,
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 2251.0,
+    "lot": 9408.0
+   },
+   {
+    "addr": "630 Roscoe Dr",
+    "dist": "0.13 mi",
+    "est": 484999.0,
+    "age": 6032026.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 2412.0,
+    "lot": 9583.0
+   },
+   {
+    "addr": "814 Hat Creek Dr",
+    "dist": "0.13 mi",
+    "est": 514000.0,
+    "age": 4012026.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 3247.0,
+    "lot": 14418.0
+   },
+   {
+    "addr": "805 Pea Eye Dr",
+    "dist": "0.15 mi",
+    "est": 464900.0,
+    "age": 6102026.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 2458.0,
+    "lot": 22564.0
+   },
+   {
+    "addr": "Rental",
+    "dist": "0.16 mi",
+    "est": 3550.0,
+    "age": 8042026.0,
+    "beds": 5.0,
+    "baths": 4.0,
+    "sqft": 2706.0,
+    "lot": 10541.0
+   },
+   {
+    "addr": "5626 Ranger Dr",
+    "dist": "0.19 mi",
+    "est": 575000.0,
+    "age": 4282026.0,
+    "beds": 5.0,
+    "baths": 4.0,
+    "sqft": 3761.0,
+    "lot": 16683.0
+   },
+   {
+    "addr": "834 Rustic Trl",
+    "dist": "0.22 mi",
+    "est": 569000.0,
+    "age": 8032026.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 2554.0,
+    "lot": 12109.0
+   },
+   {
+    "addr": "626 Poppie Ln",
+    "dist": "0.22 mi",
+    "est": 550000.0,
+    "age": 5302026.0,
+    "beds": 4.0,
+    "baths": 4.0,
+    "sqft": 2856.0,
+    "lot": 22215.0
+   },
+   {
+    "addr": "829 Poppie Ln",
+    "dist": "0.26 mi",
+    "est": 425000.0,
+    "age": 5212026.0,
+    "beds": 4.0,
+    "baths": 2.0,
+    "sqft": 2272.0,
+    "lot": 10410.0
+   },
+   {
+    "addr": "6037 Kansas Trl",
+    "dist": "0.28 mi",
+    "est": 500000.0,
+    "age": 7232026.0,
+    "beds": 4.0,
+    "baths": 3.0,
+    "sqft": 3239.0,
+    "lot": 9365.0
+   }
+  ]
+ }
+}

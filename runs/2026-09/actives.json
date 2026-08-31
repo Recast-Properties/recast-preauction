@@ -1,0 +1,202 @@
+{
+ "2052 WILLOW BEND DR": {
+  "sub": "OAK LEAF FARMS",
+  "parcels": 29,
+  "actives": [
+   {
+    "addr": "2056 WILLOW BEND DR",
+    "sqft": 5908,
+    "ask": 999999,
+    "psf": 169.26184834123222,
+    "status": "House for sale",
+    "zest": 966100
+   }
+  ]
+ },
+ "5614 LOG CABIN CT": {
+  "sub": "DOVE CREEK",
+  "parcels": 366,
+  "actives": []
+ },
+ "469 BRUSHWOOD LN": {
+  "sub": "ESTATES OF NORTH GROVE",
+  "parcels": 258,
+  "actives": [
+   {
+    "addr": "549 TRUMAN ST",
+    "sqft": 4394,
+    "ask": 525000,
+    "psf": 119.48111060537096,
+    "status": "House for sale",
+    "zest": null
+   },
+   {
+    "addr": "512 STRAIT LN",
+    "sqft": 2766,
+    "ask": 425000,
+    "psf": 153.65148228488792,
+    "status": "House for sale",
+    "zest": 418900
+   },
+   {
+    "addr": "440 BRUSHWOOD LN",
+    "sqft": 3706,
+    "ask": 569900,
+    "psf": 153.77765785213168,
+    "status": "House for sale",
+    "zest": 563300
+   },
+   {
+    "addr": "1533 PIERCE ST",
+    "sqft": 2660,
+    "ask": 424900,
+    "psf": 159.73684210526315,
+    "status": "House for sale",
+    "zest": 420400
+   },
+   {
+    "addr": "499 WASHINGTON AVE",
+    "sqft": 2411,
+    "ask": 410000,
+    "psf": 170.05391953546246,
+    "status": "House for sale",
+    "zest": 407900
+   }
+  ]
+ },
+ "408 ABBOTT LN": {
+  "sub": "HAVEN PH",
+  "parcels": 207,
+  "actives": [
+   {
+    "addr": "602 DEAN BOX DR",
+    "sqft": 3084,
+    "ask": 499900,
+    "psf": 162.094682230869,
+    "status": "House for sale",
+    "zest": 496800
+   },
+   {
+    "addr": "395 STRAIT LN",
+    "sqft": 2630,
+    "ask": 427000,
+    "psf": 162.3574144486692,
+    "status": "House for sale",
+    "zest": 423000
+   },
+   {
+    "addr": "448 BESSIE COLEMAN BLVD",
+    "sqft": 2641,
+    "ask": 485900,
+    "psf": 183.98333964407422,
+    "status": "House for sale",
+    "zest": 478400
+   }
+  ]
+ },
+ "323 TUMBLEWEED TRL": {
+  "sub": "GARDEN VALLEY RANCH",
+  "parcels": 300,
+  "actives": [
+   {
+    "addr": "207 RAWHIDE ST",
+    "sqft": 2103,
+    "ask": 307400,
+    "psf": 146.17213504517355,
+    "status": "House for sale",
+    "zest": 307000
+   },
+   {
+    "addr": "201 RAWHIDE ST",
+    "sqft": 2080,
+    "ask": 329500,
+    "psf": 158.41346153846155,
+    "status": "House for sale",
+    "zest": 329100
+   },
+   {
+    "addr": "212 GHOST RIDER RD",
+    "sqft": 1923,
+    "ask": 355000,
+    "psf": 184.60738429537182,
+    "status": "House for sale",
+    "zest": null
+   },
+   {
+    "addr": "149 VALLEY RANCH DR",
+    "sqft": 1558,
+    "ask": 320000,
+    "psf": 205.39152759948652,
+    "status": "House for sale",
+    "zest": 318900
+   }
+  ]
+ },
+ "501 WHITE PLAINS CT": {
+  "sub": "HAWKINS MEADOWS",
+  "parcels": 179,
+  "actives": [
+   {
+    "addr": "413 FRONTIER CT",
+    "sqft": 4687,
+    "ask": 650000,
+    "psf": 138.6814593556646,
+    "status": "House for sale",
+    "zest": 640300
+   },
+   {
+    "addr": "2601 GROUSE HOLLOW WAY",
+    "sqft": 4266,
+    "ask": 620000,
+    "psf": 145.33520862634788,
+    "status": "House for sale",
+    "zest": null
+   },
+   {
+    "addr": "422 CRESTVIEW DR",
+    "sqft": 4182,
+    "ask": 624000,
+    "psf": 149.21090387374463,
+    "status": "House for sale",
+    "zest": 614700
+   },
+   {
+    "addr": "418 CRESTVIEW DR",
+    "sqft": 4076,
+    "ask": 619000,
+    "psf": 151.86457311089302,
+    "status": "House for sale",
+    "zest": 606900
+   },
+   {
+    "addr": "2610 WHITE PLAINS DR",
+    "sqft": 4314,
+    "ask": 680950,
+    "psf": 157.84654612888272,
+    "status": "New construction",
+    "zest": 669900
+   },
+   {
+    "addr": "518 VALLEY DR",
+    "sqft": 4143,
+    "ask": 654900,
+    "psf": 158.07385952208546,
+    "status": "House for sale",
+    "zest": 646500
+   },
+   {
+    "addr": "402 CRESTVIEW DR",
+    "sqft": 2860,
+    "ask": 592819,
+    "psf": 207.27937062937062,
+    "status": "New construction",
+    "zest": 586400
+   }
+  ]
+ },
+ "10407 WALNUT RIDGE DR": {
+  "sub": "GREENWAY TRAILS",
+  "parcels": 469,
+  "actives": []
+ }
+}
