@@ -29,6 +29,11 @@ own bid model on the result. One question: *is the number the bid is built on de
 **First run complete.** Nine September properties evaluated; `runs/2026-09/` holds the data.
 Method and code are real and validated. Nothing is automated.
 
+**Market layer added 2026-08-31** (§3a of the method doc): Realtor.com Research inventory files,
+county + zip, 25-month history. Two findings drive it — per-foot pricing is flat (+1.0% over 25
+months) so there is no appreciation to underwrite, and a 1 September purchase lists into the
+seasonal worst window (Dec DOM 77 vs 52 in spring). It revised one ARV: Willow Bend $760k → $735k.
+
 Headline finding: **seven ARVs conservative, two high.** 1751 Shumard was the only property
 with no Cotality report *and* the only one where the ARV ran materially high — see §3 of the
 method doc for why that correlation is the whole argument for ranking comps above AVMs.
@@ -51,8 +56,10 @@ Reports were published as private Artifacts, not to any site. URLs in `runs/2026
    would rank high, and are reachable through the same actors already in
    `PropertyValueScraper.js`. Paul raised this 2026-08-31; the reasoning for deferring is
    in §3 and §9.
-4. **No absorption modelling.** Time-to-sell drives the carry. Shumard's subdivision ran a
-   230-day median to contract against a 6-month carry assumption.
+4. **The carry is still the sheet's input, not a derived one.** The market layer measures the
+   seasonal exposure and prices it ($7,000–$12,700 of bid capacity for 6→9 months) but does not
+   change any sheet's carry assumption. Shumard's subdivision ran a 230-day median to contract
+   against a 6-month carry.
 5. **No checkpointing.** Unlike `title-cli`, a failed run restarts from the top.
 
 ## Cost

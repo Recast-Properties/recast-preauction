@@ -78,6 +78,76 @@ helped. One live resale ask did.
 
 ---
 
+## 3a. The market layer
+
+The ARV says what the house is worth. The market layer says **whether the exit is realistic**, and
+it is the only part of this method that can move a bid without touching a comp.
+
+Source: **Realtor.com Research inventory files** — the same ones the August listings review used.
+
+```
+https://econdata.s3-us-west-2.amazonaws.com/Reports/Core/RDC_Inventory_Core_Metrics_County.csv
+https://econdata.s3-us-west-2.amazonaws.com/Reports/Core/RDC_Inventory_Core_Metrics_Zip.csv
+                                    ...RDC_Inventory_Core_Metrics_County_History.csv
+                                    ...RDC_Inventory_Core_Metrics_Zip_History.csv
+```
+
+> The **Core** files are a single-month snapshot. Only the **_History** files carry the time series,
+> and the trend is the whole point — always pull History. County history is ~100 MB, zip history
+> ~820 MB.
+
+### The two findings that matter
+
+**Per-foot pricing is flat.** Ellis County went $194/sf to $196/sf over the 25 months to July 2026,
++1.0%. By zip: Waxahachie 75165 exactly flat, Oak Leaf 75154 −0.6%, Midlothian 76065 +3.0%. Median
+*list* prices rose 2–10% over the same window, but that is **mix** — bigger and newer houses coming
+to market — not the same house appreciating. **Never underwrite appreciation during the carry.**
+
+**Seasonality is severe and it lands on this auction.** Pooled county median days-on-market by
+calendar month: 52 in Apr/May, 53 in Jul, then 60 Aug, 66 Sep, 70 Oct, 72 Nov, **77 Dec, 78 Jan**.
+A property bought at a 1 September sale and listed in October meets the rising half of that curve
+and does not see spring conditions until March.
+
+### Applying it to the bid
+
+The sheets' 6-month carries run September to March — exactly the minimum to reach the spring window,
+with no slack. Test the sensitivity rather than asserting it:
+
+| | |
+|---|---|
+| Carry 6 → 9 months | costs **$7,000–$12,700** of bid capacity, scaling with property size |
+| Offsetting cushion | every sheet charges a **full year** of property tax against a 6-month carry |
+
+That over-costing is real and absorbs much of the slow-season risk, which is why the seasonality
+finding **tightens** bids rather than breaking them. Scale utilities with the carry; leave the tax
+line alone, since it is already annual.
+
+### What it changed on the September run
+
+One ARV. **2052 Willow Bend $760,000 → $735,000** — 75154 has the weakest absorption of the three
+zips (37% pending ratio), flat per-foot pricing across the series, and a 12-month carry spanning two
+slow seasons with nothing to offset it. The revision moved the central value from the top of the AVM
+band to its middle.
+
+Nothing else moved, and that is the correct outcome: the market data contradicts *appreciation
+assumptions*, and this method never made any. An upward ARV revision is a statement about today's
+level, which flat-but-not-falling pricing supports.
+
+### Denominator discipline
+
+Realtor.com publishes `price_reduced_share`, and it is **not** reproducible from the counts in the
+same row: July 2026 Ellis shows 464 reduced against 1,055 active (44%) and 1,513 total (31%), while
+the `price_reduced_share` field reads 0.2369. Three different numbers. **Quote the raw counts and
+state the denominator**, never the share field alone.
+
+### Submarkets are not one market
+
+Midlothian, Waxahachie and Oak Leaf run different price levels and opposite inventory trends —
+in July 2026 Midlothian actives were +14.5% YoY while Waxahachie was −12.7%. Compute county-wide for
+context, but drive every per-property verdict off its own zip.
+
+---
+
 ## 4. Failure modes
 
 Each of these cost real effort to find. Do not rediscover them.
@@ -210,9 +280,10 @@ exported sheet PDFs. There is no automation and no checkpointing yet.
 | 4 | `cotparse2.py` | `cotality.json` — AVM values, sold comps, nearby estimates |
 | 5 | *(Apify)* | Zillow subject detail + per-subdivision sweeps |
 | 6 | `join.py` | `actives.json` — county roll × live listings |
+| 6b | `market.py` | `market.json`, `market_hist.json` — zip + county conditions and the 25-month series |
 | 7 | `model.py` | **validation gate** — reproduce printed bids |
 | 8 | `verdict.py` | `verdicts.json` — central ARV + revised bids |
-| 9 | `gen.py`, `genidx.py` | per-property reports + index |
+| 9 | `gen.py` (calls `mktsec.py`), `genidx.py` | per-property reports + index |
 
 `verdict.py` holds the per-property ARV calls and their written rationale. **That file is
 judgment, not computation** — it is where a human decides, and it should stay that way.

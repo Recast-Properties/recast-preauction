@@ -1,0 +1,118 @@
+{
+ "county": {
+  "month": "202607",
+  "median_list": 489045.0,
+  "median_list_yy": 0.0478,
+  "active": 1055.0,
+  "active_mm": 0.1129,
+  "active_yy": -0.0009,
+  "dom": 53.0,
+  "dom_yy": -0.1102,
+  "reduced_ct": 464.0,
+  "pending": 459.0,
+  "pending_ratio": 0.4348,
+  "psf": 196.0,
+  "psf_yy": 0.0127,
+  "new_yy": 0.1105
+ },
+ "zips": {
+  "75165": {
+   "month": "202607",
+   "median_list": 464950.0,
+   "median_list_yy": 0.0974,
+   "active": 228.0,
+   "active_mm": 0.1098,
+   "active_yy": -0.1267,
+   "dom": 53.0,
+   "dom_yy": -0.1452,
+   "reduced_ct": 110.0,
+   "pending": 103.0,
+   "pending_ratio": 0.4527,
+   "psf": 189.0,
+   "psf_yy": -0.0027,
+   "new_yy": 0.0769
+  },
+  "75154": {
+   "month": "202607",
+   "median_list": 424625.0,
+   "median_list_yy": 0.0551,
+   "active": 180.0,
+   "active_mm": 0.0746,
+   "active_yy": 0.0746,
+   "dom": 52.0,
+   "dom_yy": 0.0148,
+   "reduced_ct": 88.0,
+   "pending": 66.0,
+   "pending_ratio": 0.3667,
+   "psf": 179.0,
+   "psf_yy": 0.0015,
+   "new_yy": -0.0976
+  },
+  "76065": {
+   "month": "202607",
+   "median_list": 547000.0,
+   "median_list_yy": 0.0139,
+   "active": 317.0,
+   "active_mm": 0.153,
+   "active_yy": 0.1447,
+   "dom": 48.0,
+   "dom_yy": -0.188,
+   "reduced_ct": 144.0,
+   "pending": 155.0,
+   "pending_ratio": 0.4897,
+   "psf": 205.0,
+   "psf_yy": 0.0201,
+   "new_yy": 0.619
+  }
+ },
+ "zip_names": {
+  "75165": "Waxahachie",
+  "76065": "Midlothian",
+  "75154": "Red Oak / Oak Leaf"
+ },
+ "prop_zip": {
+  "1751 SHUMARD ST": "75165",
+  "408 ABBOTT LN": "75165",
+  "469 BRUSHWOOD LN": "75165",
+  "495 WASHINGTON AVE": "75165",
+  "323 TUMBLEWEED TRL": "75165",
+  "5614 LOG CABIN CT": "76065",
+  "501 WHITE PLAINS CT": "76065",
+  "10407 WALNUT RIDGE DR": "76065",
+  "2052 WILLOW BEND DR": "75154"
+ },
+ "history": {
+  "75165": [
+   {
+    "month": "202607",
+    "psf": 189.0,
+    "active": 228.0,
+    "dom": 53.0
+   }
+  ],
+  "75154": [
+   {
+    "month": "202607",
+    "psf": 179.0,
+    "active": 180.0,
+    "dom": 52.0
+   }
+  ],
+  "76065": [
+   {
+    "month": "202607",
+    "psf": 205.0,
+    "active": 317.0,
+    "dom": 48.0
+   }
+  ],
+  "county": [
+   {
+    "month": "202607",
+    "psf": 196.0,
+    "active": 1055.0,
+    "dom": 53.0
+   }
+  ]
+ }
+}

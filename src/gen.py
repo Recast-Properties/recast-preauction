@@ -1,4 +1,5 @@
 import json,re,html,statistics as st,os
+from mktsec import section as market_section
 CSS=open('shared_css.html').read(); HEAD=open('shared_head.html').read()
 sheets={r['address']:r for r in json.load(open('sheets.json'))}
 cot=json.load(open('cotality.json')); subj=json.load(open('subjects.json'))
@@ -117,6 +118,9 @@ address-by-address from the county roll to live listings. $/sf falls as size ris
                      f'<span class="bar"><i style="width:{w:.1f}%"></i></span>'
                      f'<span class="p">{("$"+m(p)) if p else e(ev)}</span></div>')
         P.append(f'<p class="foot">{e(ph[-1].get("event") or "")} on {e(ph[-1].get("date"))}. Current Zillow status: <b>{e(z.get("homeStatus") or "unknown")}</b>, Zestimate <b>${m(z.get("zestimate"))}</b>, rent Zestimate <b>${m(z.get("rentZestimate"))}</b>/mo.</p></div></div></section>')
+
+    # ---- market layer
+    P.append(market_section(a, sf, cen, sh['carry_months'], sh['arv']))
 
     # ---- bid model
     fixed=v['fixed']; rate=v['rate']

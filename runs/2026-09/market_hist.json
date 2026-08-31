@@ -1,0 +1,917 @@
+{
+ "county": [
+  {
+   "month": "202407",
+   "psf": 194.0,
+   "list": 479923.0,
+   "active": 1041.0,
+   "dom": 52.0,
+   "pending_ratio": 0.4059,
+   "reduced": 594.0
+  },
+  {
+   "month": "202408",
+   "psf": 194.0,
+   "list": 479740.0,
+   "active": 1079.0,
+   "dom": 57.0,
+   "pending_ratio": 0.393,
+   "reduced": 544.0
+  },
+  {
+   "month": "202409",
+   "psf": 192.0,
+   "list": 469998.0,
+   "active": 1043.0,
+   "dom": 65.0,
+   "pending_ratio": 0.4065,
+   "reduced": 500.0
+  },
+  {
+   "month": "202410",
+   "psf": 193.0,
+   "list": 466995.0,
+   "active": 994.0,
+   "dom": 69.0,
+   "pending_ratio": 0.4152,
+   "reduced": 462.0
+  },
+  {
+   "month": "202411",
+   "psf": 192.0,
+   "list": 461479.0,
+   "active": 941.0,
+   "dom": 72.0,
+   "pending_ratio": 0.4176,
+   "reduced": 400.0
+  },
+  {
+   "month": "202412",
+   "psf": 193.0,
+   "list": 464973.0,
+   "active": 855.0,
+   "dom": 78.0,
+   "pending_ratio": 0.3871,
+   "reduced": 226.0
+  },
+  {
+   "month": "202501",
+   "psf": 195.0,
+   "list": 460220.0,
+   "active": 835.0,
+   "dom": 75.0,
+   "pending_ratio": 0.3425,
+   "reduced": 306.0
+  },
+  {
+   "month": "202502",
+   "psf": 194.0,
+   "list": 452475.0,
+   "active": 843.0,
+   "dom": 57.0,
+   "pending_ratio": 0.454,
+   "reduced": 332.0
+  },
+  {
+   "month": "202503",
+   "psf": 193.0,
+   "list": 463300.0,
+   "active": 877.0,
+   "dom": 54.0,
+   "pending_ratio": 0.4812,
+   "reduced": 400.0
+  },
+  {
+   "month": "202504",
+   "psf": 194.0,
+   "list": 475000.0,
+   "active": 935.0,
+   "dom": 52.0,
+   "pending_ratio": 0.4727,
+   "reduced": 456.0
+  },
+  {
+   "month": "202505",
+   "psf": 195.0,
+   "list": 475000.0,
+   "active": 978.0,
+   "dom": 51.0,
+   "pending_ratio": 0.4908,
+   "reduced": 464.0
+  },
+  {
+   "month": "202506",
+   "psf": 194.0,
+   "list": 472450.0,
+   "active": 1018.0,
+   "dom": 56.0,
+   "pending_ratio": 0.4406,
+   "reduced": 594.0
+  },
+  {
+   "month": "202507",
+   "psf": 194.0,
+   "list": 466750.0,
+   "active": 1056.0,
+   "dom": 59.0,
+   "pending_ratio": 0.4135,
+   "reduced": 556.0
+  },
+  {
+   "month": "202508",
+   "psf": 194.0,
+   "list": 462000.0,
+   "active": 1026.0,
+   "dom": 63.0,
+   "pending_ratio": 0.4366,
+   "reduced": 440.0
+  },
+  {
+   "month": "202509",
+   "psf": 194.0,
+   "list": 453146.0,
+   "active": 1017.0,
+   "dom": 67.0,
+   "pending_ratio": 0.426,
+   "reduced": 436.0
+  },
+  {
+   "month": "202510",
+   "psf": 195.0,
+   "list": 462450.0,
+   "active": 1021.0,
+   "dom": 70.0,
+   "pending_ratio": 0.405,
+   "reduced": 454.0
+  },
+  {
+   "month": "202511",
+   "psf": 193.0,
+   "list": 456000.0,
+   "active": 964.0,
+   "dom": 72.0,
+   "pending_ratio": 0.4263,
+   "reduced": 436.0
+  },
+  {
+   "month": "202512",
+   "psf": 193.0,
+   "list": 449950.0,
+   "active": 904.0,
+   "dom": 76.0,
+   "pending_ratio": 0.3697,
+   "reduced": 266.0
+  },
+  {
+   "month": "202601",
+   "psf": 193.0,
+   "list": 450000.0,
+   "active": 793.0,
+   "dom": 80.0,
+   "pending_ratio": 0.4111,
+   "reduced": 292.0
+  },
+  {
+   "month": "202602",
+   "psf": 193.0,
+   "list": 459225.0,
+   "active": 828.0,
+   "dom": 69.0,
+   "pending_ratio": 0.4314,
+   "reduced": 326.0
+  },
+  {
+   "month": "202603",
+   "psf": 193.0,
+   "list": 463130.0,
+   "active": 908.0,
+   "dom": 52.0,
+   "pending_ratio": 0.4851,
+   "reduced": 376.0
+  },
+  {
+   "month": "202604",
+   "psf": 193.0,
+   "list": 469950.0,
+   "active": 919.0,
+   "dom": 52.0,
+   "pending_ratio": 0.5259,
+   "reduced": 390.0
+  },
+  {
+   "month": "202605",
+   "psf": 193.0,
+   "list": 465000.0,
+   "active": 909.0,
+   "dom": 54.0,
+   "pending_ratio": 0.5655,
+   "reduced": 380.0
+  },
+  {
+   "month": "202606",
+   "psf": 195.0,
+   "list": 485597.0,
+   "active": 948.0,
+   "dom": 56.0,
+   "pending_ratio": 0.5282,
+   "reduced": 458.0
+  },
+  {
+   "month": "202607",
+   "psf": 196.0,
+   "list": 489045.0,
+   "active": 1055.0,
+   "dom": 53.0,
+   "pending_ratio": 0.4348,
+   "reduced": 464.0
+  }
+ ],
+ "zips": {
+  "75165": [
+   {
+    "month": "202407",
+    "psf": 189.0,
+    "list": 436450.0,
+    "active": 269.0,
+    "dom": 46.0,
+    "pending_ratio": 0.3613,
+    "reduced": 152.0
+   },
+   {
+    "month": "202408",
+    "psf": 190.0,
+    "list": 444700.0,
+    "active": 271.0,
+    "dom": 56.0,
+    "pending_ratio": 0.3579,
+    "reduced": 140.0
+   },
+   {
+    "month": "202409",
+    "psf": 189.0,
+    "list": 437875.0,
+    "active": 268.0,
+    "dom": 67.0,
+    "pending_ratio": 0.3346,
+    "reduced": 132.0
+   },
+   {
+    "month": "202410",
+    "psf": 190.0,
+    "list": 431135.0,
+    "active": 258.0,
+    "dom": 70.0,
+    "pending_ratio": 0.3643,
+    "reduced": 148.0
+   },
+   {
+    "month": "202411",
+    "psf": 187.0,
+    "list": 420000.0,
+    "active": 221.0,
+    "dom": 73.0,
+    "pending_ratio": 0.3937,
+    "reduced": 108.0
+   },
+   {
+    "month": "202412",
+    "psf": 188.0,
+    "list": 412450.0,
+    "active": 208.0,
+    "dom": 78.0,
+    "pending_ratio": 0.3293,
+    "reduced": 54.0
+   },
+   {
+    "month": "202501",
+    "psf": 190.0,
+    "list": 402500.0,
+    "active": 209.0,
+    "dom": 68.0,
+    "pending_ratio": 0.3038,
+    "reduced": 68.0
+   },
+   {
+    "month": "202502",
+    "psf": 190.0,
+    "list": 401250.0,
+    "active": 210.0,
+    "dom": 60.0,
+    "pending_ratio": 0.3938,
+    "reduced": 74.0
+   },
+   {
+    "month": "202503",
+    "psf": 189.0,
+    "list": 414900.0,
+    "active": 210.0,
+    "dom": 57.0,
+    "pending_ratio": 0.4476,
+    "reduced": 96.0
+   },
+   {
+    "month": "202504",
+    "psf": 192.0,
+    "list": 430223.0,
+    "active": 213.0,
+    "dom": 54.0,
+    "pending_ratio": 0.4706,
+    "reduced": 72.0
+   },
+   {
+    "month": "202505",
+    "psf": 193.0,
+    "list": 430000.0,
+    "active": 231.0,
+    "dom": 50.0,
+    "pending_ratio": 0.4199,
+    "reduced": 96.0
+   },
+   {
+    "month": "202506",
+    "psf": 192.0,
+    "list": 420983.0,
+    "active": 247.0,
+    "dom": 52.0,
+    "pending_ratio": 0.3874,
+    "reduced": 144.0
+   },
+   {
+    "month": "202507",
+    "psf": 190.0,
+    "list": 423700.0,
+    "active": 261.0,
+    "dom": 62.0,
+    "pending_ratio": 0.3647,
+    "reduced": 136.0
+   },
+   {
+    "month": "202508",
+    "psf": 191.0,
+    "list": 418450.0,
+    "active": 256.0,
+    "dom": 65.0,
+    "pending_ratio": 0.4023,
+    "reduced": 128.0
+   },
+   {
+    "month": "202509",
+    "psf": 191.0,
+    "list": 420000.0,
+    "active": 264.0,
+    "dom": 65.0,
+    "pending_ratio": 0.4099,
+    "reduced": 124.0
+   },
+   {
+    "month": "202510",
+    "psf": 189.0,
+    "list": 429925.0,
+    "active": 264.0,
+    "dom": 67.0,
+    "pending_ratio": 0.3738,
+    "reduced": 124.0
+   },
+   {
+    "month": "202511",
+    "psf": 190.0,
+    "list": 435000.0,
+    "active": 246.0,
+    "dom": 76.0,
+    "pending_ratio": 0.3943,
+    "reduced": 88.0
+   },
+   {
+    "month": "202512",
+    "psf": 192.0,
+    "list": 428857.0,
+    "active": 228.0,
+    "dom": 83.0,
+    "pending_ratio": 0.3319,
+    "reduced": 72.0
+   },
+   {
+    "month": "202601",
+    "psf": 193.0,
+    "list": 425000.0,
+    "active": 214.0,
+    "dom": 76.0,
+    "pending_ratio": 0.285,
+    "reduced": 88.0
+   },
+   {
+    "month": "202602",
+    "psf": 189.0,
+    "list": 410500.0,
+    "active": 217.0,
+    "dom": 68.0,
+    "pending_ratio": 0.3764,
+    "reduced": 80.0
+   },
+   {
+    "month": "202603",
+    "psf": 191.0,
+    "list": 417475.0,
+    "active": 228.0,
+    "dom": 52.0,
+    "pending_ratio": 0.5033,
+    "reduced": 100.0
+   },
+   {
+    "month": "202604",
+    "psf": 190.0,
+    "list": 434550.0,
+    "active": 228.0,
+    "dom": 58.0,
+    "pending_ratio": 0.5231,
+    "reduced": 98.0
+   },
+   {
+    "month": "202605",
+    "psf": 193.0,
+    "list": 430000.0,
+    "active": 204.0,
+    "dom": 59.0,
+    "pending_ratio": 0.6225,
+    "reduced": 88.0
+   },
+   {
+    "month": "202606",
+    "psf": 193.0,
+    "list": 447450.0,
+    "active": 205.0,
+    "dom": 59.0,
+    "pending_ratio": 0.5366,
+    "reduced": 90.0
+   },
+   {
+    "month": "202607",
+    "psf": 189.0,
+    "list": 464950.0,
+    "active": 228.0,
+    "dom": 53.0,
+    "pending_ratio": 0.4527,
+    "reduced": 110.0
+   }
+  ],
+  "76065": [
+   {
+    "month": "202407",
+    "psf": 199.0,
+    "list": 527500.0,
+    "active": 340.0,
+    "dom": 58.0,
+    "pending_ratio": 0.4265,
+    "reduced": 214.0
+   },
+   {
+    "month": "202408",
+    "psf": 199.0,
+    "list": 525000.0,
+    "active": 345.0,
+    "dom": 60.0,
+    "pending_ratio": 0.4261,
+    "reduced": 172.0
+   },
+   {
+    "month": "202409",
+    "psf": 198.0,
+    "list": 523750.0,
+    "active": 318.0,
+    "dom": 70.0,
+    "pending_ratio": 0.4969,
+    "reduced": 152.0
+   },
+   {
+    "month": "202410",
+    "psf": 199.0,
+    "list": 523325.0,
+    "active": 281.0,
+    "dom": 77.0,
+    "pending_ratio": 0.5409,
+    "reduced": 126.0
+   },
+   {
+    "month": "202411",
+    "psf": 198.0,
+    "list": 525000.0,
+    "active": 248.0,
+    "dom": 82.0,
+    "pending_ratio": 0.5645,
+    "reduced": 80.0
+   },
+   {
+    "month": "202412",
+    "psf": 200.0,
+    "list": 536800.0,
+    "active": 226.0,
+    "dom": 80.0,
+    "pending_ratio": 0.5332,
+    "reduced": 72.0
+   },
+   {
+    "month": "202501",
+    "psf": 203.0,
+    "list": 533981.0,
+    "active": 209.0,
+    "dom": 88.0,
+    "pending_ratio": 0.47,
+    "reduced": 90.0
+   },
+   {
+    "month": "202502",
+    "psf": 206.0,
+    "list": 540686.0,
+    "active": 207.0,
+    "dom": 66.0,
+    "pending_ratio": 0.5773,
+    "reduced": 88.0
+   },
+   {
+    "month": "202503",
+    "psf": 206.0,
+    "list": 550000.0,
+    "active": 218.0,
+    "dom": 55.0,
+    "pending_ratio": 0.633,
+    "reduced": 108.0
+   },
+   {
+    "month": "202504",
+    "psf": 203.0,
+    "list": 545000.0,
+    "active": 245.0,
+    "dom": 51.0,
+    "pending_ratio": 0.5828,
+    "reduced": 144.0
+   },
+   {
+    "month": "202505",
+    "psf": 203.0,
+    "list": 539900.0,
+    "active": 260.0,
+    "dom": 51.0,
+    "pending_ratio": 0.5615,
+    "reduced": 116.0
+   },
+   {
+    "month": "202506",
+    "psf": 203.0,
+    "list": 546000.0,
+    "active": 272.0,
+    "dom": 53.0,
+    "pending_ratio": 0.558,
+    "reduced": 176.0
+   },
+   {
+    "month": "202507",
+    "psf": 201.0,
+    "list": 539475.0,
+    "active": 277.0,
+    "dom": 59.0,
+    "pending_ratio": 0.4955,
+    "reduced": 156.0
+   },
+   {
+    "month": "202508",
+    "psf": 200.0,
+    "list": 540000.0,
+    "active": 261.0,
+    "dom": 67.0,
+    "pending_ratio": 0.5326,
+    "reduced": 108.0
+   },
+   {
+    "month": "202509",
+    "psf": 201.0,
+    "list": 547238.0,
+    "active": 245.0,
+    "dom": 73.0,
+    "pending_ratio": 0.5501,
+    "reduced": 112.0
+   },
+   {
+    "month": "202510",
+    "psf": 204.0,
+    "list": 539000.0,
+    "active": 255.0,
+    "dom": 74.0,
+    "pending_ratio": 0.4706,
+    "reduced": 118.0
+   },
+   {
+    "month": "202511",
+    "psf": 200.0,
+    "list": 525000.0,
+    "active": 240.0,
+    "dom": 72.0,
+    "pending_ratio": 0.4875,
+    "reduced": 112.0
+   },
+   {
+    "month": "202512",
+    "psf": 199.0,
+    "list": 523675.0,
+    "active": 227.0,
+    "dom": 75.0,
+    "pending_ratio": 0.4967,
+    "reduced": 68.0
+   },
+   {
+    "month": "202601",
+    "psf": 200.0,
+    "list": 532331.0,
+    "active": 191.0,
+    "dom": 81.0,
+    "pending_ratio": 0.5602,
+    "reduced": 72.0
+   },
+   {
+    "month": "202602",
+    "psf": 201.0,
+    "list": 531975.0,
+    "active": 201.0,
+    "dom": 60.0,
+    "pending_ratio": 0.5,
+    "reduced": 80.0
+   },
+   {
+    "month": "202603",
+    "psf": 206.0,
+    "list": 541250.0,
+    "active": 225.0,
+    "dom": 48.0,
+    "pending_ratio": 0.5189,
+    "reduced": 104.0
+   },
+   {
+    "month": "202604",
+    "psf": 206.0,
+    "list": 541120.0,
+    "active": 238.0,
+    "dom": 51.0,
+    "pending_ratio": 0.5663,
+    "reduced": 104.0
+   },
+   {
+    "month": "202605",
+    "psf": 203.0,
+    "list": 526750.0,
+    "active": 246.0,
+    "dom": 53.0,
+    "pending_ratio": 0.6463,
+    "reduced": 116.0
+   },
+   {
+    "month": "202606",
+    "psf": 200.0,
+    "list": 534973.0,
+    "active": 275.0,
+    "dom": 54.0,
+    "pending_ratio": 0.6011,
+    "reduced": 132.0
+   },
+   {
+    "month": "202607",
+    "psf": 205.0,
+    "list": 547000.0,
+    "active": 317.0,
+    "dom": 48.0,
+    "pending_ratio": 0.4897,
+    "reduced": 144.0
+   }
+  ],
+  "75154": [
+   {
+    "month": "202407",
+    "psf": 180.0,
+    "list": 448750.0,
+    "active": 188.0,
+    "dom": 54.0,
+    "pending_ratio": 0.432,
+    "reduced": 92.0
+   },
+   {
+    "month": "202408",
+    "psf": 180.0,
+    "list": 439523.0,
+    "active": 194.0,
+    "dom": 50.0,
+    "pending_ratio": 0.3866,
+    "reduced": 108.0
+   },
+   {
+    "month": "202409",
+    "psf": 181.0,
+    "list": 448628.0,
+    "active": 189.0,
+    "dom": 59.0,
+    "pending_ratio": 0.3439,
+    "reduced": 112.0
+   },
+   {
+    "month": "202410",
+    "psf": 181.0,
+    "list": 413725.0,
+    "active": 166.0,
+    "dom": 55.0,
+    "pending_ratio": 0.4247,
+    "reduced": 88.0
+   },
+   {
+    "month": "202411",
+    "psf": 180.0,
+    "list": 409995.0,
+    "active": 173.0,
+    "dom": 60.0,
+    "pending_ratio": 0.422,
+    "reduced": 64.0
+   },
+   {
+    "month": "202412",
+    "psf": 182.0,
+    "list": 408675.0,
+    "active": 177.0,
+    "dom": 62.0,
+    "pending_ratio": 0.3909,
+    "reduced": 54.0
+   },
+   {
+    "month": "202501",
+    "psf": 184.0,
+    "list": 413675.0,
+    "active": 154.0,
+    "dom": 67.0,
+    "pending_ratio": 0.4221,
+    "reduced": 54.0
+   },
+   {
+    "month": "202502",
+    "psf": 183.0,
+    "list": 401247.0,
+    "active": 156.0,
+    "dom": 58.0,
+    "pending_ratio": 0.508,
+    "reduced": 92.0
+   },
+   {
+    "month": "202503",
+    "psf": 181.0,
+    "list": 418000.0,
+    "active": 158.0,
+    "dom": 54.0,
+    "pending_ratio": 0.5127,
+    "reduced": 88.0
+   },
+   {
+    "month": "202504",
+    "psf": 182.0,
+    "list": 411495.0,
+    "active": 165.0,
+    "dom": 52.0,
+    "pending_ratio": 0.4742,
+    "reduced": 84.0
+   },
+   {
+    "month": "202505",
+    "psf": 178.0,
+    "list": 419900.0,
+    "active": 163.0,
+    "dom": 50.0,
+    "pending_ratio": 0.4601,
+    "reduced": 84.0
+   },
+   {
+    "month": "202506",
+    "psf": 179.0,
+    "list": 402175.0,
+    "active": 175.0,
+    "dom": 52.0,
+    "pending_ratio": 0.3668,
+    "reduced": 116.0
+   },
+   {
+    "month": "202507",
+    "psf": 179.0,
+    "list": 402450.0,
+    "active": 168.0,
+    "dom": 51.0,
+    "pending_ratio": 0.4925,
+    "reduced": 96.0
+   },
+   {
+    "month": "202508",
+    "psf": 174.0,
+    "list": 395000.0,
+    "active": 179.0,
+    "dom": 53.0,
+    "pending_ratio": 0.4078,
+    "reduced": 92.0
+   },
+   {
+    "month": "202509",
+    "psf": 175.0,
+    "list": 389925.0,
+    "active": 169.0,
+    "dom": 60.0,
+    "pending_ratio": 0.4645,
+    "reduced": 86.0
+   },
+   {
+    "month": "202510",
+    "psf": 178.0,
+    "list": 399495.0,
+    "active": 162.0,
+    "dom": 63.0,
+    "pending_ratio": 0.4784,
+    "reduced": 66.0
+   },
+   {
+    "month": "202511",
+    "psf": 178.0,
+    "list": 394950.0,
+    "active": 155.0,
+    "dom": 58.0,
+    "pending_ratio": 0.4581,
+    "reduced": 52.0
+   },
+   {
+    "month": "202512",
+    "psf": 177.0,
+    "list": 399069.0,
+    "active": 143.0,
+    "dom": 63.0,
+    "pending_ratio": 0.4491,
+    "reduced": 54.0
+   },
+   {
+    "month": "202601",
+    "psf": 177.0,
+    "list": 395000.0,
+    "active": 122.0,
+    "dom": 73.0,
+    "pending_ratio": 0.4754,
+    "reduced": 56.0
+   },
+   {
+    "month": "202602",
+    "psf": 181.0,
+    "list": 395000.0,
+    "active": 124.0,
+    "dom": 57.0,
+    "pending_ratio": 0.5806,
+    "reduced": 36.0
+   },
+   {
+    "month": "202603",
+    "psf": 182.0,
+    "list": 400068.0,
+    "active": 150.0,
+    "dom": 42.0,
+    "pending_ratio": 0.4615,
+    "reduced": 56.0
+   },
+   {
+    "month": "202604",
+    "psf": 182.0,
+    "list": 412450.0,
+    "active": 149.0,
+    "dom": 40.0,
+    "pending_ratio": 0.5537,
+    "reduced": 60.0
+   },
+   {
+    "month": "202605",
+    "psf": 179.0,
+    "list": 410000.0,
+    "active": 161.0,
+    "dom": 45.0,
+    "pending_ratio": 0.472,
+    "reduced": 64.0
+   },
+   {
+    "month": "202606",
+    "psf": 179.0,
+    "list": 429968.0,
+    "active": 168.0,
+    "dom": 47.0,
+    "pending_ratio": 0.5015,
+    "reduced": 74.0
+   },
+   {
+    "month": "202607",
+    "psf": 179.0,
+    "list": 424625.0,
+    "active": 180.0,
+    "dom": 52.0,
+    "pending_ratio": 0.3667,
+    "reduced": 88.0
+   }
+  ]
+ },
+ "zip_names": {
+  "75165": "Waxahachie",
+  "76065": "Midlothian",
+  "75154": "Red Oak / Oak Leaf"
+ }
+}
