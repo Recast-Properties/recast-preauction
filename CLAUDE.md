@@ -40,6 +40,24 @@ method doc for why that correlation is the whole argument for ranking comps abov
 
 Reports were published as private Artifacts, not to any site. URLs in `runs/2026-09/urls.json`.
 
+### October run — 2026-10-02 (`runs/2026-10/`, read its README)
+
+Thirteen properties (the sheet's 4 Yes + 9 maybes), answered in chat plus one private Artifact, the bid sheet (`gen_page.py`, link in `urls.json`).
+Five ARVs conservative, four held, four high (2329 Slate −$90k: builder anchoring again).
+What changed in the method, all measured on this run:
+
+- **The sheet's interest is `c × (bid + fixed costs)`**, `c` = 9% × carry/12 (0.045 at 6 months,
+  0.06 at 8). With that form all 13 printed bid pairs reproduce to the dollar; `src/model.py`'s
+  back-solved `r` on the bid alone is only approximate when the ARV moves.
+- **Sold comps' last ask before contract** (detail-scrape the in-subdivision solds picked from a
+  `recently_sold` sweep) ranks just under the subject's own history in §3. 74 pages cost $0.21.
+- **One search box per subject works** (subdivision roll bounds, padded; ±0.06° for rural) — no
+  subdivision came back empty. Sweep items now carry `sourceSearchUrl`, `listingPrice.formatted`,
+  `listingStatus`, `listingType.isNewHome`; `src/join.py` and `src/gen.py` still read the old names.
+- The sheet can be read without PDFs: gviz `sheet=<tab name>` in Chrome, one `get_page_text` per tab.
+- The sheet's tax line is last year's bill: on a new build it is the bare lot (Slate $1,436 on a
+  $486k house), and the tab totals carry no insurance line although INPUTS has $300/month.
+
 ### Open items, in priority order
 
 1. **Three subdivisions came back with 0–1 live comps** — Dove Creek (5614 Log Cabin),

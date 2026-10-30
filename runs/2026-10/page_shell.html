@@ -1,0 +1,104 @@
+<title>October Bid Sheet</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700&family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@400;600&display=swap">
+<style>
+/* Layout: one reading column. A call table up top, then one ruled block per house with the max bid set at the right edge. */
+:root{
+  --bg:#F2F5F2; --surface:#FFFFFF; --ink:#16211C; --muted:#58675F; --rule:#D3DAD5; --accent:#1F5F4A;
+  --go:#1B7248; --go-bg:#DDEFE4; --hold:#8A5E00; --hold-bg:#F6E9C8; --stop:#9C382C; --stop-bg:#F4DEDA;
+  --display:"Archivo","Helvetica Neue",Arial,sans-serif; --body:"IBM Plex Sans","Segoe UI",system-ui,sans-serif; --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#101714; --surface:#17211C; --ink:#E6ECE8; --muted:#97A79E; --rule:#2B3932; --accent:#7CC9A8;
+  --go:#6AD39A; --go-bg:#173526; --hold:#E3B552; --hold-bg:#3A2E10; --stop:#EA8C7B; --stop-bg:#3D1D18; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#101714; --surface:#17211C; --ink:#E6ECE8; --muted:#97A79E; --rule:#2B3932; --accent:#7CC9A8;
+  --go:#6AD39A; --go-bg:#173526; --hold:#E3B552; --hold-bg:#3A2E10; --stop:#EA8C7B; --stop-bg:#3D1D18; color-scheme:dark}
+body{background:var(--bg);color:var(--ink);font:400 16px/1.55 var(--body)}
+.wrap{max-width:60rem;margin:0 auto;padding-inline:20px;padding-block:40px 64px;display:flex;flex-direction:column;gap:40px}
+h1,h2,h3{font-family:var(--display);text-wrap:balance;margin:0;line-height:1.15}
+h1{font-size:clamp(2rem,6vw,3rem);font-weight:700;letter-spacing:-0.01em}
+h2{font-size:1.35rem;font-weight:700}
+h3{font-size:1.25rem;font-weight:700}
+p{margin:0;max-width:68ch}
+a{color:var(--accent)}
+a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.eyebrow{font:600 0.78rem/1.2 var(--body);letter-spacing:0.09em;text-transform:uppercase;color:var(--muted)}
+.top{display:flex;flex-direction:column;gap:12px}
+.lede{font-size:1.1rem}
+.rule-note{color:var(--muted);font-size:0.95rem}
+.block{display:flex;flex-direction:column;gap:14px}
+.tw{overflow-x:auto;min-width:0}
+table{border-collapse:collapse;width:100%;font-size:0.92rem}
+caption{text-align:left;font:600 0.78rem/1.3 var(--body);letter-spacing:0.06em;text-transform:uppercase;color:var(--muted);padding-bottom:6px}
+th,td{padding:7px 10px 7px 0;border-bottom:1px solid var(--rule);text-align:left;vertical-align:top;white-space:nowrap}
+td:first-child,th:first-child{white-space:normal;min-width:9.5rem}
+th{font-weight:600;color:var(--muted);font-size:0.8rem}
+.n{text-align:right;font-family:var(--mono);font-variant-numeric:tabular-nums}
+td i{font-style:normal;color:var(--muted);font-size:0.85em}
+.strong{font-weight:600}
+.pill{display:inline-block;font:600 0.74rem/1 var(--body);letter-spacing:0.05em;text-transform:uppercase;padding:5px 8px;border-radius:3px;white-space:nowrap}
+.v-bid .pill{background:var(--go-bg);color:var(--go)}
+.v-open .pill,.v-cond .pill{background:var(--hold-bg);color:var(--hold)}
+.v-pass .pill{background:var(--stop-bg);color:var(--stop)}
+.calls td{padding-block:9px}
+.calls .strong{font-size:1rem}
+.market ul{margin:0;padding-left:1.1rem;display:flex;flex-direction:column;gap:8px;max-width:72ch}
+.market li span{color:var(--muted);font-size:0.88rem}
+.props{display:flex;flex-direction:column;gap:44px}
+.prop{border-top:3px solid var(--ink);padding-top:16px;display:flex;flex-direction:column;gap:14px}
+.prop header{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:flex-start;gap:12px 24px}
+.prop header>div:first-child{min-width:0;flex:1 1 16rem}
+.where{color:var(--muted);font-size:0.9rem}
+.call{display:flex;flex-direction:column;align-items:flex-end;gap:6px}
+.max{font:600 1.7rem/1 var(--mono);font-variant-numeric:tabular-nums}
+.v-pass .max{font-size:1.1rem;color:var(--muted)}
+.verdict{font-size:1.02rem}
+.figs{margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(11.5rem,1fr));gap:1px;background:var(--rule);border:1px solid var(--rule)}
+.figs div{background:var(--surface);padding:10px 12px;min-width:0}
+.figs dt{font-size:0.76rem;color:var(--muted);line-height:1.3}
+.figs dd{margin:2px 0 0;font:600 0.98rem/1.3 var(--mono);font-variant-numeric:tabular-nums}
+.why{font-size:0.97rem}
+.note{color:var(--muted);font-size:0.92rem;font-style:italic}
+.tables{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,24rem),1fr));gap:20px 28px}
+.fine{color:var(--muted);font-size:0.88rem;display:flex;flex-direction:column;gap:8px;border-top:1px solid var(--rule);padding-top:20px}
+</style>
+<div class="wrap">
+  <div class="top">
+    <p class="eyebrow">Ellis County trustee sale &middot; Tuesday, October 6, 2026</p>
+    <h1>October Bid Sheet</h1>
+    <p class="lede">Thirteen houses off the October sheet: the four marked Yes and nine maybes. For each one, what it should sell for after the work, whether to bid, and where to stop.</p>
+    <p class="rule-note">The max is your own 20% profit line, run through your own cost model at my ARV. At that price, a house that sells 5% lower and takes three months longer still clears about 13% to 14%. Compiled October 2, 2026.</p>
+  </div>
+
+  <div class="block">
+    <h2>The call on each house</h2>
+    <div class="tw"><table class="calls">
+      <thead><tr><th>House</th><th>Call</th><th class="n">Max bid</th><th class="n">My ARV</th><th class="n">Your ARV</th><th class="n">Price to beat</th></tr></thead>
+      <tbody>{{SUMMARY}}</tbody>
+    </table></div>
+    <p class="rule-note">* No opening bid is posted. The figure is what is owed, from the sheet or from a recorded loan modification, and the lender will likely bid about that.</p>
+  </div>
+
+  <div class="block market">
+    <h2>The market you sell into</h2>
+    <ul>
+      <li><strong>Rates jumped.</strong> The 30-year averaged 7.28% on October 1, up from 6.43% in early July. The same payment now buys about 8% less house. Every comp on this page went under contract before most of that move. <span>Freddie Mac weekly survey; the 8% is arithmetic.</span></li>
+      <li><strong>Ellis County is flat and slow.</strong> September: 1,067 listings, 442 price cuts during the month, 398 pending against 433 a year ago. Asking price per foot was $193 against $195 a year ago. <span>Realtor.com inventory data.</span></li>
+      <li><strong>Closed sales through August were steady.</strong> 309 sales in the county, down 4% on the year, with 4.6 months of inventory. Across Dallas-Fort Worth, homes closed at 94.8% of their original asking price. <span>NTREIS via MetroTex.</span></li>
+      <li><strong>You list into the slowest months.</strong> The county's median days on market was 71 in September and reached 80 last January. <span>Realtor.com inventory data.</span></li>
+      <li><strong>Builders are the competition.</strong> Lennar reports incentives near 12% of price. Builders hold most of the listings in three of these subdivisions: Christian Meadows, Prairie Ridge and Ridge Crossing. <span>Lennar third-quarter results; Zillow listings, October 2.</span></li>
+      <li><strong>Flip margins in Dallas are the thinnest of any big metro.</strong> A 1.8% gross margin before rehab and carry in the second quarter, against 21.5% nationally. <span>ATTOM; Texas price data is partial.</span></li>
+    </ul>
+  </div>
+
+  <div class="props">
+    <h2>House by house</h2>
+{{BLOCKS}}
+  </div>
+
+  <div class="fine">
+    <p>No price on this page is a closed sale. Texas does not publish sale prices. &ldquo;Last ask&rdquo; is the final asking price before a house went under contract; homes usually close a little under it, and builders add incentives on top.</p>
+    <p>This is not a title search and nobody inspected a house. Rehab budgets, carry months and profit targets are yours and were not tested. Bankruptcy checks are as of September 24. Square footage matches Ellis CAD on all thirteen.</p>
+    <p>Sources: the October auction sheet; Ellis CAD; Zillow listings and price histories pulled October 2; Cotality reports of September 21; Auction.com, Xome and ServiceLink listings; the title screen of September 24; Town Square's report of September 29.</p>
+  </div>
+</div>

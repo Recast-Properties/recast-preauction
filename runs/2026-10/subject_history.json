@@ -1,0 +1,410 @@
+[
+ {
+  "zpid": 67639884,
+  "listingStatus": "forSale",
+  "listingPrice": {
+   "currency": "USD"
+  },
+  "zestimate": 864600,
+  "rentZestimate": 5083,
+  "livingArea": 3794,
+  "listingPriceHistory": [
+   {
+    "date": "2020-01-15T00:00:00.000Z",
+    "event": "Sold",
+    "priceChangeRate": 0,
+    "source": "Agent Provided",
+    "sellerAgent": "Chad Smith"
+   },
+   {
+    "date": "2019-12-19T00:00:00.000Z",
+    "event": "Pending sale",
+    "price": 500000,
+    "pricePerSquareFoot": 132,
+    "priceChangeRate": 0,
+    "source": "Keller Williams Arlington"
+   },
+   {
+    "date": "2019-11-22T00:00:00.000Z",
+    "event": "Listed for sale",
+    "price": 500000,
+    "pricePerSquareFoot": 132,
+    "priceChangeRate": 0.002004008016032064,
+    "source": "Keller Williams Arlington"
+   },
+   {
+    "date": "2019-02-05T00:00:00.000Z",
+    "event": "Listing removed",
+    "price": 499000,
+    "pricePerSquareFoot": 132,
+    "priceChangeRate": 0,
+    "source": "Keller Williams Realty"
+   },
+   {
+    "date": "2019-01-10T00:00:00.000Z",
+    "event": "Listed for sale",
+    "price": 499000,
+    "pricePerSquareFoot": 132,
+    "priceChangeRate": 0,
+    "source": "Keller Williams Realty"
+   }
+  ],
+  "propertyUrl": "https://www.zillow.com/homedetails/248-Bakers-Branch-Rd-Waxahachie-TX-75167/67639884_zpid/"
+ },
+ {
+  "zpid": 305965258,
+  "listingStatus": "forSale",
+  "listingPrice": {
+   "currency": "USD"
+  },
+  "zestimate": 482600,
+  "rentZestimate": 3502,
+  "livingArea": 3265,
+  "listingPriceHistory": [],
+  "propertyUrl": "https://www.zillow.com/homedetails/541-Truman-St-Waxahachie-TX-75165/305965258_zpid/"
+ },
+ {
+  "zpid": 89405126,
+  "listingStatus": "other",
+  "listingPrice": {
+   "amount": 421452,
+   "currency": "USD",
+   "formatted": "$421,452"
+  },
+  "zestimate": null,
+  "rentZestimate": 2742,
+  "livingArea": 3629,
+  "listingPriceHistory": [
+   {
+    "date": "2026-09-06T00:00:00.000Z",
+    "event": "Listing removed",
+    "price": 459878,
+    "pricePerSquareFoot": 127,
+    "priceChangeRate": 0,
+    "source": "NTREIS"
+   },
+   {
+    "date": "2025-10-22T00:00:00.000Z",
+    "event": "Price change",
+    "price": 459878,
+    "pricePerSquareFoot": 127,
+    "priceChangeRate": -0.01054053879602476,
+    "source": "NTREIS"
+   },
+   {
+    "date": "2025-09-24T00:00:00.000Z",
+    "event": "Price change",
+    "price": 464777,
+    "pricePerSquareFoot": 128,
+    "priceChangeRate": -0.021522105263157894,
+    "source": "NTREIS"
+   },
+   {
+    "date": "2025-09-05T00:00:00.000Z",
+    "event": "Listed for sale",
+    "price": 475000,
+    "pricePerSquareFoot": 131,
+    "priceChangeRate": 0.7924528301886793,
+    "source": "NTREIS"
+   },
+   {
+    "date": "2020-04-10T00:00:00.000Z",
+    "event": "Listing removed",
+    "pricePerSquareFoot": 0,
+    "priceChangeRate": 0,
+    "source": "Hudson & Marshall"
+   },
+   {
+    "date": "2020-04-03T00:00:00.000Z",
+    "event": "Listed for sale",
+    "pricePerSquareFoot": 0,
+    "priceChangeRate": 0,
+    "source": "Hudson & Marshall"
+   },
+   {
+    "date": "2015-04-09T00:00:00.000Z",
+    "event": "Sold",
+    "priceChangeRate": 0,
+    "source": "Public Record"
+   },
+   {
+    "date": "2014-10-14T00:00:00.000Z",
+    "event": "Price change",
+    "price": 265000,
+    "pricePerSquareFoot": 73,
+    "priceChangeRate": -0.03636363636363636,
+    "source": "CENTURY 21 Judge Fite Company"
+   },
+   {
+    "date": "2014-08-27T00:00:00.000Z",
+    "event": "Listed for sale",
+    "price": 275000,
+    "pricePerSquareFoot": 76,
+    "priceChangeRate": 0,
+    "source": "CENTURY 21 Judge Fite Co."
+   }
+  ],
+  "propertyUrl": "https://www.zillow.com/homedetails/905-Royse-Ridge-Rd-Ennis-TX-75119/89405126_zpid/"
+ },
+ {
+  "zpid": 447632364,
+  "listingStatus": "forSale",
+  "listingPrice": {
+   "currency": "USD"
+  },
+  "zestimate": 329800,
+  "rentZestimate": 2265,
+  "livingArea": 1635,
+  "listingPriceHistory": [],
+  "propertyUrl": "https://www.zillow.com/homedetails/241-Poinsetta-Dr-Palmer-TX-75152/447632364_zpid/"
+ },
+ {
+  "zpid": 125231822,
+  "listingStatus": "other",
+  "listingPrice": {
+   "amount": 852900,
+   "currency": "USD",
+   "formatted": "$852,900"
+  },
+  "zestimate": 852900,
+  "rentZestimate": 4067,
+  "livingArea": 3767,
+  "listingPriceHistory": [],
+  "propertyUrl": "https://www.zillow.com/homedetails/1610-Cimarron-Trl-Midlothian-TX-76065/125231822_zpid/"
+ },
+ {
+  "zpid": 454242181,
+  "listingStatus": "other",
+  "listingPrice": {
+   "amount": 517900,
+   "currency": "USD",
+   "formatted": "$517,900"
+  },
+  "zestimate": 517900,
+  "rentZestimate": 3116,
+  "livingArea": 2834,
+  "listingPriceHistory": [
+   {
+    "date": "2025-11-24T00:00:00.000Z",
+    "event": "Listing removed",
+    "price": 529000,
+    "pricePerSquareFoot": 187,
+    "priceChangeRate": 0,
+    "source": "NTREIS"
+   },
+   {
+    "date": "2025-07-12T00:00:00.000Z",
+    "event": "Price change",
+    "price": 529000,
+    "pricePerSquareFoot": 187,
+    "priceChangeRate": -0.009363295880149813,
+    "source": "NTREIS"
+   },
+   {
+    "date": "2025-06-20T00:00:00.000Z",
+    "event": "Price change",
+    "price": 534000,
+    "pricePerSquareFoot": 188,
+    "priceChangeRate": -0.0273224043715847,
+    "source": "NTREIS"
+   },
+   {
+    "date": "2025-06-05T00:00:00.000Z",
+    "event": "Price change",
+    "price": 549000,
+    "pricePerSquareFoot": 194,
+    "priceChangeRate": -0.009918845807033363,
+    "source": "NTREIS"
+   },
+   {
+    "date": "2025-05-08T00:00:00.000Z",
+    "event": "Price change",
+    "price": 554500,
+    "pricePerSquareFoot": 196,
+    "priceChangeRate": -0.02633889376646181,
+    "source": "NTREIS"
+   },
+   {
+    "date": "2025-04-13T00:00:00.000Z",
+    "event": "Listed for sale",
+    "price": 569500,
+    "pricePerSquareFoot": 201,
+    "priceChangeRate": 0,
+    "source": "NTREIS"
+   }
+  ],
+  "propertyUrl": "https://www.zillow.com/homedetails/3509-Burdock-Ln-Venus-TX-76084/454242181_zpid/"
+ },
+ {
+  "zpid": 465061940,
+  "listingStatus": "forSale",
+  "listingPrice": {
+   "amount": 699900,
+   "currency": "USD",
+   "formatted": "$699,900"
+  },
+  "zestimate": 691200,
+  "rentZestimate": 4009,
+  "livingArea": 2899,
+  "listingPriceHistory": [
+   {
+    "date": "2026-09-04T00:00:00.000Z",
+    "event": "Listed for sale",
+    "price": 699900,
+    "pricePerSquareFoot": 241,
+    "priceChangeRate": 0,
+    "source": "NTREIS"
+   }
+  ],
+  "propertyUrl": "https://www.zillow.com/homedetails/2329-Slate-Dr-Waxahachie-TX-75167/465061940_zpid/"
+ },
+ {
+  "zpid": 27358503,
+  "listingStatus": "forSale",
+  "listingPrice": {
+   "currency": "USD"
+  },
+  "zestimate": 261800,
+  "rentZestimate": 2002,
+  "livingArea": 1338,
+  "listingPriceHistory": [],
+  "propertyUrl": "https://www.zillow.com/homedetails/102-Myrtle-Ave-Waxahachie-TX-75165/27358503_zpid/"
+ },
+ {
+  "zpid": 111960945,
+  "listingStatus": "other",
+  "listingPrice": {
+   "amount": 544700,
+   "currency": "USD",
+   "formatted": "$544,700"
+  },
+  "zestimate": 544700,
+  "rentZestimate": 2695,
+  "livingArea": 4011,
+  "listingPriceHistory": [],
+  "propertyUrl": "https://www.zillow.com/homedetails/1618-Fm-85-Ennis-TX-75119/111960945_zpid/"
+ },
+ {
+  "zpid": 250009161,
+  "listingStatus": "other",
+  "listingPrice": {
+   "amount": 666800,
+   "currency": "USD",
+   "formatted": "$666,800"
+  },
+  "zestimate": 666800,
+  "rentZestimate": 3703,
+  "livingArea": 3198,
+  "listingPriceHistory": [
+   {
+    "date": "2026-09-25T00:00:00.000Z",
+    "event": "Listing removed",
+    "price": 680000,
+    "pricePerSquareFoot": 213,
+    "priceChangeRate": 0,
+    "source": "NTREIS"
+   },
+   {
+    "date": "2026-08-20T00:00:00.000Z",
+    "event": "Contingent",
+    "price": 680000,
+    "pricePerSquareFoot": 213,
+    "priceChangeRate": 0,
+    "source": "NTREIS"
+   },
+   {
+    "date": "2026-07-03T00:00:00.000Z",
+    "event": "Listed for sale",
+    "price": 680000,
+    "pricePerSquareFoot": 213,
+    "priceChangeRate": -0.04895104895104895,
+    "source": "NTREIS"
+   },
+   {
+    "date": "2023-07-20T00:00:00.000Z",
+    "event": "Sold",
+    "priceChangeRate": 0,
+    "source": "NTREIS",
+    "sellerAgent": "Alan Simonton"
+   },
+   {
+    "date": "2023-06-05T00:00:00.000Z",
+    "event": "Pending sale",
+    "price": 715000,
+    "pricePerSquareFoot": 224,
+    "priceChangeRate": 0,
+    "source": "NTREIS"
+   },
+   {
+    "date": "2023-06-02T00:00:00.000Z",
+    "event": "Listed for sale",
+    "price": 715000,
+    "pricePerSquareFoot": 224,
+    "priceChangeRate": 0,
+    "source": "NTREIS"
+   }
+  ],
+  "propertyUrl": "https://www.zillow.com/homedetails/4602-Saddlehorn-Dr-Midlothian-TX-76065/250009161_zpid/"
+ },
+ {
+  "zpid": 27352538,
+  "listingStatus": "other",
+  "listingPrice": {
+   "amount": 205500,
+   "currency": "USD",
+   "formatted": "$205,500"
+  },
+  "zestimate": 205500,
+  "rentZestimate": 1743,
+  "livingArea": 1201,
+  "listingPriceHistory": [],
+  "propertyUrl": "https://www.zillow.com/homedetails/2010-Mobile-Dr-Ennis-TX-75119/27352538_zpid/"
+ },
+ {
+  "zpid": 2058466504,
+  "listingStatus": "forSale",
+  "listingPrice": {
+   "currency": "USD"
+  },
+  "zestimate": 267200,
+  "rentZestimate": 2070,
+  "livingArea": 1374,
+  "listingPriceHistory": [
+   {
+    "date": "2023-06-29T00:00:00.000Z",
+    "event": "Sold",
+    "priceChangeRate": 0,
+    "source": "NTREIS"
+   },
+   {
+    "date": "2023-05-16T00:00:00.000Z",
+    "event": "Pending sale",
+    "price": 274409,
+    "pricePerSquareFoot": 200,
+    "priceChangeRate": 0,
+    "source": "NTREIS"
+   },
+   {
+    "date": "2023-03-17T00:00:00.000Z",
+    "event": "Listed for sale",
+    "price": 274409,
+    "pricePerSquareFoot": 200,
+    "priceChangeRate": 0,
+    "source": "NTREIS"
+   }
+  ],
+  "propertyUrl": "https://www.zillow.com/homedetails/3808-Kings-Dr-Ennis-TX-75119/2058466504_zpid/"
+ },
+ {
+  "zpid": 111966290,
+  "listingStatus": "forSale",
+  "listingPrice": {
+   "currency": "USD"
+  },
+  "zestimate": 337000,
+  "rentZestimate": 2537,
+  "livingArea": 1880,
+  "listingPriceHistory": [],
+  "propertyUrl": "https://www.zillow.com/homedetails/3606-Regent-St-Midlothian-TX-76065/111966290_zpid/"
+ }
+]

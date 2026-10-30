@@ -1,0 +1,617 @@
+{
+ "248 BAKERS BRANCH RD": {
+  "pid": 217189,
+  "acct": 1822427,
+  "legal": "697  J J MAYS 11.84 ACRES",
+  "acres": 11.84,
+  "appraised": 827449,
+  "land": 449920,
+  "living": 3311.0,
+  "yearBuilt": 1999,
+  "details": [
+   [
+    "MAIN AREA",
+    "2372.00",
+    "1999"
+   ],
+   [
+    "2ND STORY",
+    "939.00",
+    "1999"
+   ],
+   [
+    "POOL",
+    "1.00",
+    "1999"
+   ],
+   [
+    "ATTACHED 2 CAR GARAGE",
+    "483.00",
+    "1999"
+   ],
+   [
+    "ENCLOSED PORCH",
+    "144.00",
+    "1999"
+   ],
+   [
+    "DECK",
+    "144.00",
+    "1999"
+   ],
+   [
+    "COVERED PORCH",
+    "144.00",
+    "1999"
+   ],
+   [
+    "COVERED PORCH",
+    "54.00",
+    "1999"
+   ],
+   [
+    "BARN",
+    "2500.00",
+    "1999"
+   ]
+  ],
+  "lat": 32.3136728337,
+  "lng": -96.9179273002,
+  "owner": "BRALEY NATASHA A",
+  "deedDt": "2020-01-15",
+  "asCode": "990697112",
+  "mailCity": "WAXAHACHIE",
+  "situs": "248 BAKERS BRANCH RD, WAXAHACHIE, TX, 75167",
+  "impClass": [
+   null,
+   null
+  ]
+ },
+ "3606 REGENT ST": {
+  "pid": 235867,
+  "acct": 1834714,
+  "legal": "6 8 KENSINGTON PARK PH II  0.19 ACRES",
+  "acres": 0.19,
+  "appraised": 328150,
+  "land": 80000,
+  "living": 1880.0,
+  "yearBuilt": 2009,
+  "details": [
+   [
+    "MAIN AREA",
+    "1880.00",
+    "2009"
+   ],
+   [
+    "ATTACHED 2 CAR GARAGE",
+    "400.00",
+    "2009"
+   ],
+   [
+    "COVERED PORCH",
+    "228.00",
+    "2009"
+   ],
+   [
+    "COVERED PORCH",
+    "132.00",
+    "2009"
+   ],
+   [
+    "WIND OR SOLAR DEVICE",
+    "1.00",
+    "2022"
+   ]
+  ],
+  "lat": 32.4906153862,
+  "lng": -96.9480514053,
+  "owner": "SELGRATH DALE W & LETTIE A",
+  "deedDt": "2010-02-19",
+  "asCode": "545594108",
+  "mailCity": "MIDLOTHIAN",
+  "situs": "3606 REGENT ST, MIDLOTHIAN, TX, 76065",
+  "impClass": [
+   null,
+   null
+  ]
+ },
+ "241 POINSETTA DR": {
+  "pid": 291592,
+  "acct": 1868573,
+  "legal": "LOT 11 BLK K THE MEADOWS OF PALMER PH 5 SEC 1 0.188 AC",
+  "acres": 0.188,
+  "appraised": 308827,
+  "land": 45000,
+  "living": 1635.0,
+  "yearBuilt": 2024,
+  "details": [
+   [
+    "MAIN AREA",
+    "1635.00",
+    "2024"
+   ],
+   [
+    "ATTACHED 2 CAR GARAGE",
+    "440.00",
+    "2024"
+   ],
+   [
+    "COVERED PORCH",
+    "84.00",
+    "2024"
+   ],
+   [
+    "COVERED PORCH",
+    "54.00",
+    "2024"
+   ]
+  ],
+  "lat": 32.423525609,
+  "lng": -96.6698098277,
+  "owner": "ROARX SIERRA",
+  "deedDt": "2025-01-20",
+  "asCode": "656690110",
+  "mailCity": "FT WORTH",
+  "situs": "241 POINSETTA DR, PALMER, TX, 75152",
+  "impClass": [
+   null
+  ]
+ },
+ "541 TRUMAN ST": {
+  "pid": 272420,
+  "acct": 1852407,
+  "legal": "LOT 3 BLK 8 ESTATES OF NORTH GROVE PH 1  .248 AC",
+  "acres": 0.248,
+  "appraised": 456199,
+  "land": 100000,
+  "living": 3265.0,
+  "yearBuilt": 2018,
+  "details": [
+   [
+    "MAIN AREA",
+    "2149.00",
+    "2018"
+   ],
+   [
+    "2ND STORY",
+    "1116.00",
+    "2018"
+   ],
+   [
+    "ATTACHED 2 CAR GARAGE",
+    "380.00",
+    "2018"
+   ],
+   [
+    "COVERED PORCH",
+    "160.00",
+    "2018"
+   ],
+   [
+    "COVERED PORCH",
+    "56.00",
+    "2018"
+   ]
+  ],
+  "lat": 32.4270628254,
+  "lng": -96.8205332721,
+  "owner": "SMITH VINCENT E JR & TERESA R",
+  "deedDt": "2019-07-31",
+  "asCode": "903835112",
+  "mailCity": "WAXAHACHIE",
+  "situs": "541 TRUMAN ST, WAXAHACHIE, TX, 75165",
+  "impClass": [
+   null
+  ]
+ },
+ "905 ROYSE RIDGE RD": {
+  "pid": 228716,
+  "acct": 1830241,
+  "legal": "LOT 19 BLK B WALKERS RUN - REV  .325 AC",
+  "acres": 0.325,
+  "appraised": 419328,
+  "land": 65000,
+  "living": 3629.0,
+  "yearBuilt": 2008,
+  "details": [
+   [
+    "MAIN AREA",
+    "2149.00",
+    "2008"
+   ],
+   [
+    "2ND STORY",
+    "1480.00",
+    "2008"
+   ],
+   [
+    "ATTACHED 2 CAR GARAGE",
+    "602.00",
+    "2008"
+   ],
+   [
+    "COVERED PORCH",
+    "288.00",
+    "2008"
+   ],
+   [
+    "COVERED PORCH",
+    "280.00",
+    "2008"
+   ],
+   [
+    "COVERED PORCH",
+    "176.00",
+    "2008"
+   ],
+   [
+    "COVERED PORCH",
+    "176.00",
+    "2008"
+   ]
+  ],
+  "lat": 32.3274915764,
+  "lng": -96.6471764663,
+  "owner": "LOPEZ JOEY & ALMA",
+  "deedDt": "2017-05-11",
+  "asCode": "259108103",
+  "mailCity": "ENNIS",
+  "situs": "905 ROYSE RIDGE RD, ENNIS, TX, 75119",
+  "impClass": [
+   null
+  ]
+ },
+ "102 MYRTLE AVE": {
+  "pid": 173620,
+  "acct": 1797277,
+  "legal": "LOT 133 GINGERBREAD VILLAGE PH 1 & 2",
+  "acres": 0.0,
+  "appraised": 257152,
+  "land": 90000,
+  "living": 1338.0,
+  "yearBuilt": 1986,
+  "details": [
+   [
+    "MAIN AREA",
+    "1338.00",
+    "1986"
+   ],
+   [
+    "ATTACHED 2 CAR GARAGE",
+    "484.00",
+    "1986"
+   ],
+   [
+    "COVERED PORCH",
+    "314.00",
+    "1986"
+   ],
+   [
+    "COVERED PORCH",
+    "24.00",
+    "1986"
+   ],
+   [
+    "STORAGE POOR",
+    "120.00",
+    "1986"
+   ]
+  ],
+  "lat": 32.4024632689,
+  "lng": -96.8376553555,
+  "owner": "KINSEY AMBER NICOLE",
+  "deedDt": "2026-04-28",
+  "asCode": "904450112",
+  "mailCity": "WAXAHACHIE",
+  "situs": "102 MYRTLE AVE, WAXAHACHIE, TX, 75165",
+  "impClass": [
+   null,
+   null
+  ]
+ },
+ "2329 SLATE DR": {
+  "pid": 306072,
+  "acct": 1923438,
+  "legal": "LOT 10 BLK 9 RIDGE CROSSING  0.242 AC",
+  "acres": 0.242,
+  "appraised": 486416,
+  "land": 90000,
+  "living": 2875.0,
+  "yearBuilt": 2025,
+  "details": [
+   [
+    "MAIN AREA",
+    "2875.00",
+    "2025"
+   ],
+   [
+    "ATTACHED 2 CAR GARAGE",
+    "546.00",
+    "2025"
+   ],
+   [
+    "COVERED PORCH",
+    "329.00",
+    "2025"
+   ],
+   [
+    "COVERED PORCH",
+    "75.00",
+    "2025"
+   ]
+  ],
+  "lat": 32.4262404072,
+  "lng": -96.8792527783,
+  "owner": "HEAVENLY CIGARS LLC",
+  "deedDt": "2025-12-12",
+  "asCode": "907900112",
+  "mailCity": "NEWARK",
+  "situs": "2329 SLATE  DR, WAXAHACHIE, TX, 75167",
+  "impClass": [
+   null
+  ]
+ },
+ "3509 BURDOCK LN": {
+  "pid": 300858,
+  "acct": 1876090,
+  "legal": "LOT 6 BLK II PRAIRIE RIDGE PH 5  0.151 AC",
+  "acres": 0.151,
+  "appraised": 569089,
+  "land": 100000,
+  "living": 2857.0,
+  "yearBuilt": 2024,
+  "details": [
+   [
+    "MAIN AREA",
+    "1974.00",
+    "2024"
+   ],
+   [
+    "2ND STORY",
+    "883.00",
+    "2024"
+   ],
+   [
+    "ATTACHED 2 CAR GARAGE",
+    "400.00",
+    "2024"
+   ],
+   [
+    "COVERED PORCH",
+    "208.00",
+    "2024"
+   ],
+   [
+    "COVERED PORCH",
+    "48.00",
+    "2024"
+   ]
+  ],
+  "lat": 32.489334413,
+  "lng": -97.0798481672,
+  "owner": "TIPTON LANCE R & HART AMANDA R",
+  "deedDt": "2024-08-22",
+  "asCode": "007427108",
+  "mailCity": "VENUS",
+  "situs": "3509 BURDOCK LN, PRAIRIE RIDGE , TX, 76084",
+  "impClass": [
+   null
+  ]
+ },
+ "1610 CIMARRON TRL": {
+  "pid": 235197,
+  "acct": 1834299,
+  "legal": "LOT 5R BLK E COTTON CREEK RANCH REV  2.039 AC",
+  "acres": 2.039,
+  "appraised": 947897,
+  "land": 180000,
+  "living": 4319.0,
+  "yearBuilt": 2021,
+  "details": [
+   [
+    "MAIN AREA",
+    "3767.00",
+    "2021"
+   ],
+   [
+    "2ND STORY",
+    "552.00",
+    "2021"
+   ],
+   [
+    "ATTACHED 3 CAR GARAGE",
+    "1404.00",
+    "2021"
+   ],
+   [
+    "COVERED PORCH",
+    "160.00",
+    "2021"
+   ]
+  ],
+  "lat": 32.468273586,
+  "lng": -97.0088736409,
+  "owner": "CORCORAN CHANIPUN & CHARLES",
+  "deedDt": "2023-09-20",
+  "asCode": "543049002",
+  "mailCity": "Midlothian",
+  "situs": "1610 CIMARRON TRL, MIDLOTHIAN, TX, 76065",
+  "impClass": [
+   null
+  ]
+ },
+ "1618 FM 85": {
+  "pid": 252854,
+  "acct": 1841067,
+  "legal": "966 A STEELE 2.0000 ACRES",
+  "acres": 2.0,
+  "appraised": 553801,
+  "land": 150000,
+  "living": 4011.0,
+  "yearBuilt": 1979,
+  "details": [
+   [
+    "MAIN AREA",
+    "4011.00",
+    "1979"
+   ],
+   [
+    "DETACHED GARAGE FRAME AVERAGE",
+    "960.00",
+    "1979"
+   ],
+   [
+    "ATTACHED 2 CAR GARAGE",
+    "621.00",
+    "1979"
+   ],
+   [
+    "COVERED PORCH",
+    "306.00",
+    "1979"
+   ],
+   [
+    "COVERED PORCH",
+    "30.00",
+    "1979"
+   ],
+   [
+    "SHED",
+    "1224.00",
+    "2005"
+   ]
+  ],
+  "lat": 32.3174354741,
+  "lng": -96.5521085387,
+  "owner": "MCCREARY APRIL R & TIMOTHY D JR",
+  "deedDt": "2023-08-19",
+  "asCode": "990966103",
+  "mailCity": "Ennis",
+  "situs": "1618 FM 85, ENNIS, TX, 75119",
+  "impClass": [
+   null,
+   null
+  ]
+ },
+ "4602 SADDLEHORN DR": {
+  "pid": 238723,
+  "acct": 1836317,
+  "legal": "LOT 1 BLK N BRANDI RIDGE PH 3  0.56 AC",
+  "acres": 0.56,
+  "appraised": 615547,
+  "land": 110000,
+  "living": 3198.0,
+  "yearBuilt": 2021,
+  "details": [
+   [
+    "MAIN AREA",
+    "3198.00",
+    "2021"
+   ],
+   [
+    "ATTACHED 3 CAR GARAGE",
+    "772.00",
+    "2021"
+   ],
+   [
+    "COVERED PORCH",
+    "344.00",
+    "2021"
+   ],
+   [
+    "COVERED PORCH",
+    "228.00",
+    "2021"
+   ]
+  ],
+  "lat": 32.4339720941,
+  "lng": -96.987093375,
+  "owner": "SILVA ABIEL",
+  "deedDt": "2023-07-20",
+  "asCode": "542422108",
+  "mailCity": "Midlothian",
+  "situs": "4602  SADDLEHORN DR, MIDLOTHIAN, TX, 76065",
+  "impClass": [
+   null
+  ]
+ },
+ "3808 KINGS": {
+  "pid": 292247,
+  "acct": 1869095,
+  "legal": "LOT 12 BLK G CHRISTIAN MEADOWS PH 2 0.1148 AC",
+  "acres": 0.1148,
+  "appraised": 246266,
+  "land": 55000,
+  "living": 1374.0,
+  "yearBuilt": 2023,
+  "details": [
+   [
+    "MAIN AREA",
+    "1374.00",
+    "2023"
+   ],
+   [
+    "ATTACHED 2 CAR GARAGE",
+    "400.00",
+    "2023"
+   ],
+   [
+    "COVERED PORCH",
+    "86.00",
+    "2023"
+   ]
+  ],
+  "lat": 32.3665863133,
+  "lng": -96.6309255986,
+  "owner": "WITTE JACOB & ADRIANA",
+  "deedDt": "2023-06-29",
+  "asCode": "252976103",
+  "mailCity": "Ennis",
+  "situs": "3808 KINGS, ENNIS, TX, 75119",
+  "impClass": [
+   null
+  ]
+ },
+ "2010 MOBILE DR": {
+  "pid": 161971,
+  "acct": 1786862,
+  "legal": "4 9 SOUTHGATE #2 0.149 ACRES",
+  "acres": 0.149,
+  "appraised": 204423,
+  "land": 55000,
+  "living": 1201.0,
+  "yearBuilt": 1984,
+  "details": [
+   [
+    "MAIN AREA",
+    "1201.00",
+    "1984"
+   ],
+   [
+    "ATTACHED 1 CAR GARAGE",
+    "360.00",
+    "1984"
+   ],
+   [
+    "COVERED PORCH",
+    "84.00",
+    "1984"
+   ],
+   [
+    "COVERED PORCH",
+    "35.00",
+    "1984"
+   ]
+  ],
+  "lat": 32.3075693534,
+  "lng": -96.6232807907,
+  "owner": "ERVIN MATHEW CODY &",
+  "deedDt": "2000-08-22",
+  "asCode": "258408103",
+  "mailCity": "ENNIS",
+  "situs": "2010 MOBILE DR, ENNIS, TX, 75119",
+  "impClass": [
+   null
+  ]
+ }
+}
